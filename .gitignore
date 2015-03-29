@@ -5,3 +5,5 @@ _site
 .Rhistory
 .RData
 *~
+Gemfile
+Gemfile.lock
