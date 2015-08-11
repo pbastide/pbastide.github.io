@@ -3,6 +3,10 @@ layout: page
 title: Publications
 weight: 3
 ---
+
+# Submited
+
+- **P. Bastide**, M. Mariadassou, S. Robin (2015): Detection of adaptive shifts on phylogenies using shifted stochastic processes on a tree [[arXiv]](http://arxiv.org/abs/1508.00225), [[bioRxiv]](http://www.biorxiv.org/content/early/2015/08/03/023804)
   
 # Talks and Poster
 
