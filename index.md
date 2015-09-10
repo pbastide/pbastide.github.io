@@ -10,12 +10,19 @@ I am supervised by [Stéphane Robin](https://www6.inra.fr/mia-paris/Equipes/Memb
 in the [UMR 518](http://www-old.agroparistech.fr/agroparistech/mmip/maths/essaimia/) (AgroParisTech/INRA)
 and [Mahendra Mariadasou](https://mig.jouy.inra.fr/?q=fr/mariadassou) at [MaIAGE](http://maiage.jouy.inra.fr/) (INRA).
 
+At the fall of 2015, I will be visiting [Cécile Ané](http://www.stat.wisc.edu/~ane/) at the [University of Wisconsin - Madison](http://www.wisc.edu/).
+
 ## Contact Informations
 
+paul.bastide[at]agroparistech.fr
+
+# Temporarily - In Madison
+258 Birge Hall,
+430 Lincoln Drive,
+Madison WI 53706
+
+# In Paris
 MIA Paris  
 16, rue Claude Bernard  
 75005 Paris
-
 +33(0)1 44 08 72 16
-
-paul.bastide[at]agroparistech.fr

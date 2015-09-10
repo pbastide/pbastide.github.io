@@ -14,4 +14,4 @@ and [Mahendra Mariadasou](https://mig.jouy.inra.fr/?q=fr/mariadassou).
 
 - **2010 - 2014** : Student at the École Polytechnique.
 
-- More in [English]({{site.baseurl}}/docs/201501CVanglais.pdf) or [French]({{site.baseurl}}/docs/201501CVfrancais.pdf) (last update : 01/2015)
+- More in [English]({{site.baseurl}}/docs/201509CVanglais.pdf) or [French]({{site.baseurl}}/docs/201509CVfrancais.pdf) (last update : 09/2015)
