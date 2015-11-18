@@ -16,5 +16,5 @@ weight: 3
 
 # Other Publications
 
-- **Paul Bastide** and Treyvis David :
+- **P. Bastide** and T. David :
 *Discours de réception d’Édouard Estaunié à l’Académie française: définitions croisées de la persona d’un académicien scientifique* ISSN 1913-536X Épistépocritique - Volume 14 - Automne 2014 - Greffes. [[URL]](http://www.epistemocritique.org/spip.php?article390)
