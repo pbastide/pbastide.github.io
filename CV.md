@@ -9,7 +9,7 @@ weight: 4
 Supervised by [Stéphane Robin](https://www6.inra.fr/mia-paris/Equipes/Membres/Stephane-Robin)
 and [Mahendra Mariadasou](https://mig.jouy.inra.fr/?q=fr/mariadassou).
 
-- **2013 - 2014**: Master2 [MathSV](http://www.cmap.polytechnique.fr/~giraud/MathSV/accueil.html)
+- **2013 - 2014**: Master2 [MathSV](http://webens.math.u-psud.fr/-mathematiques-du-vivant-?lang=en)
  *Mathematics for Life Sciences.*
 
 - **2010 - 2014** : Student at the École Polytechnique.
