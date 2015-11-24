@@ -6,7 +6,7 @@ weight: 4
 
 - **2014 - present**: Ph.D. in Applied Mathematics:
 *Shifted stochastic processes evolving on trees: application to models of adaptive evolution on phylogenies.*  
-Supervised by [Stéphane Robin](http://www-old.agroparistech.fr/mia/equipes:membres:page:stephane)
+Supervised by [Stéphane Robin](https://www6.inra.fr/mia-paris/Equipes/Membres/Stephane-Robin)
 and [Mahendra Mariadasou](https://mig.jouy.inra.fr/?q=fr/mariadassou).
 
 - **2013 - 2014**: Master2 [MathSV](http://www.cmap.polytechnique.fr/~giraud/MathSV/accueil.html)
