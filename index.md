@@ -10,7 +10,9 @@ I am supervised by [Stéphane Robin](https://www6.inra.fr/mia-paris/Equipes/Memb
 in the [UMR 518](https://www6.inra.fr/mia-paris) (AgroParisTech/INRA)
 and [Mahendra Mariadasou](https://mig.jouy.inra.fr/?q=fr/mariadassou) at [MaIAGE](http://maiage.jouy.inra.fr/) (INRA).
 
-At the fall of 2015, I visited [Cécile Ané](http://www.stat.wisc.edu/~ane/) at the [University of Wisconsin - Madison](http://www.wisc.edu/) on a Fulbright fellowship.
+At the fall of 2015, I visited [Cécile Ané](http://www.stat.wisc.edu/~ane/)
+at the [University of Wisconsin - Madison](http://www.wisc.edu/)
+on a Fulbright fellowship.
 
 ## Contact Informations
 
