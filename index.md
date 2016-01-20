@@ -12,7 +12,7 @@ and [Mahendra Mariadasou](https://mig.jouy.inra.fr/?q=fr/mariadassou) at [MaIAGE
 
 At the fall of 2015, I visited [Cécile Ané](http://www.stat.wisc.edu/~ane/)
 at the [University of Wisconsin - Madison](http://www.wisc.edu/)
-on a Fulbright fellowship.
+thanks to a Fulbright fellowship.
 
 ## Contact Informations
 
