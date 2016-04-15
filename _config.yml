@@ -9,5 +9,5 @@ baseurl: '' # /pbastide.github.io # the subpath of your site, e.g. /blog/
 github_username:  pbastide
 
 # Build settings
-markdown: redcarpet
+markdown: kramdown # redcarpet
 highlighter: pygments
