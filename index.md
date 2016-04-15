@@ -7,7 +7,7 @@ weight : 1
 ![photo]
 
 [photo]: {{site.baseurl}}/docs/DSC03440.JPG
-{: width="150px" style="text-align: right"}
+{: width="150px" style="text-align: center"}
 
 I am a Ph.D. student in statistics applied to evolutionnary biology.
 
