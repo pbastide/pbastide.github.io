@@ -3,7 +3,7 @@ layout: page
 title: About
 weight : 1
 ---
-{: style="text-align: center"}
+{: style="text-align: right"}
 ![photo]
 
 [photo]: {{site.baseurl}}/docs/DSC03440.JPG
