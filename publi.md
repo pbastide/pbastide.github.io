@@ -19,7 +19,7 @@ weight: 3
 - 19/11/2015 - [Sytsma Lab Seminar](http://www.botany.wisc.edu/sytsma/SytsmaLab/Welcome.html), University of Wisconsin - Madison [[Slides]]({{site.baseurl}}/docs/20151119_Systma.pdf)
 - 18/11/2015 - [Statistics Seminar](http://www.stat.wisc.edu/seminars-archive/2015-11), University of Wisconsin - Madison [[Abstract]]({{site.baseurl}}/docs/20151118_UWStatistics_Abstract.pdf) [[Slides]]({{site.baseurl}}/docs/20151118_UWstatistics.pdf)
 - 22/07/2015 - [Morlon Lab Seminar](http://www.biologie.ens.fr/phyloeco/index.html), IBENS, Paris
-- 09/06/2015 - [SSB Seminar](http://www.ssbgroup.fr/), Jouy-en-Josas, France
+- 09/06/2015 - [SSB Seminar](http://www.ssbgroup.fr/), Jouy-en-Josas
 - 16/02/2015 - MaAIGE Internal Seminar
 
 # Other Publications
