@@ -3,11 +3,11 @@ layout: page
 title: About
 weight : 1
 ---
-
+{: style="text-align: center"}
 ![photo]
 
 [photo]: {{site.baseurl}}/docs/DSC03440.JPG
-{: width="150px"; style="text-align: center"}
+{: width="150px"} 
 
 I am a Ph.D. student in statistics applied to evolutionnary biology.
 
