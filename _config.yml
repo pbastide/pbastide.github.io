@@ -10,4 +10,4 @@ github_username:  pbastide
 
 # Build settings
 markdown: kramdown # redcarpet
-highlighter: pygments
+highlighter: rouge # pygments
