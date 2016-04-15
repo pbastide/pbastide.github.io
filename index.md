@@ -3,9 +3,12 @@ layout: page
 title: About
 weight : 1
 ---
-<div class="photo">
-<img style="float: right" src="{{site.baseurl}}/docs/DSC03440.JPG", width="150">
-</div>
+
+p>. ![photo]
+
+[photo]: {{site.baseurl}}/docs/DSC03440.JPG
+{: width="150px"}
+
 I am a Ph.D. student in statistics applied to evolutionnary biology.
 
 I am supervised by [Stéphane Robin](https://www6.inra.fr/mia-paris/Equipes/Membres/Stephane-Robin)
