@@ -15,7 +15,7 @@ weight: 3
 
 # Seminars and Workshops
 - 11/04/2016 - [Séminaire de Probabilités et Statistique de Montpellier](http://www.i3m.univ-montp2.fr/seminaires-et-groupes-de-travail/index.php?option=com_content&view=article&id=59&catid=19&histo=13), SupAgro - Montpellier [[Slides]]({{site.baseurl}}/docs/20160411_Montpellier.pdf)
-- 02/10/2016 - [Sauquet Lab Seminar](http://www.sauquetlab.org/), Université Paris Sud
+- 10/02/2016 - [Sauquet Lab Seminar](http://www.sauquetlab.org/), Université Paris Sud
 - 19/11/2015 - [Sytsma Lab Seminar](http://www.botany.wisc.edu/sytsma/SytsmaLab/Welcome.html), University of Wisconsin - Madison [[Slides]]({{site.baseurl}}/docs/20151119_Systma.pdf)
 - 18/11/2015 - [Statistics Seminar](http://www.stat.wisc.edu/seminars-archive/2015-11), University of Wisconsin - Madison [[Abstract]]({{site.baseurl}}/docs/20151118_UWStatistics_Abstract.pdf) [[Slides]]({{site.baseurl}}/docs/20151118_UWstatistics.pdf)
 - 22/07/2015 - [Morlon Lab Seminar](http://www.biologie.ens.fr/phyloeco/index.html), IBENS, Paris
