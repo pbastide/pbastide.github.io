@@ -4,10 +4,10 @@ title: About
 weight : 1
 ---
 
-p>. ![photo]
+![photo]
 
 [photo]: {{site.baseurl}}/docs/DSC03440.JPG
-{: width="150px"}
+{: width="150px" .right}
 
 I am a Ph.D. student in statistics applied to evolutionnary biology.
 
