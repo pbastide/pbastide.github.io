@@ -7,7 +7,7 @@ weight : 1
 I am a Ph.D. student in statistics applied to evolutionnary biology. ![photo]
 
 [photo]: {{site.baseurl}}/docs/DSC03440.JPG
-{: height="150px" width="150px"}
+{: width="150px" text-align: right}
 
 I am supervised by [Stéphane Robin](https://www6.inra.fr/mia-paris/Equipes/Membres/Stephane-Robin)
 in the [UMR 518](https://www6.inra.fr/mia-paris) (AgroParisTech/INRA)
