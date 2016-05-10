@@ -14,6 +14,7 @@ weight: 3
 - 02/06/2015 - [47èmes Journées de Statistique de la SFdS](http://jds2015.sfds.asso.fr/) [[Abstract]]({{site.baseurl}}/docs/SFdS_2015_v2.pdf) [[Slides]]({{site.baseurl}}/docs/20150602_JdS.pdf)
 
 # Seminars and Workshops
+- 18/05/2016 - [Séminaire des doctorants de l'EDMH](http://www.math.u-psud.fr/~ecdoct/ecdoct/infos/semdoc.php), Université Paris-Sud
 - 11/04/2016 - [Séminaire de Probabilités et Statistique de Montpellier](http://www.i3m.univ-montp2.fr/seminaires-et-groupes-de-travail/index.php?option=com_content&view=article&id=59&catid=19&histo=13), SupAgro - Montpellier [[Slides]]({{site.baseurl}}/docs/20160411_Montpellier.pdf)
 - 10/02/2016 - [Sauquet Lab Seminar](http://www.sauquetlab.org/), Université Paris Sud
 - 19/11/2015 - [Sytsma Lab Seminar](http://www.botany.wisc.edu/sytsma/SytsmaLab/Welcome.html), University of Wisconsin - Madison [[Slides]]({{site.baseurl}}/docs/20151119_Systma.pdf)
