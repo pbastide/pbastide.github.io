@@ -17,7 +17,7 @@ weight: 3
 # Seminars and Workshops
 - 27/06/2016 - [Séminaire AgroParisTech](https://www6.inra.fr/mia-paris/Seminaires/Seminaire-AgroParisTech)
 - 23/06/2016 - Séminaire Probabilités et Statistiques de l'Université Paris Sud ([Journée des doctorants](http://www.math.u-psud.fr/Journee-des-doctorants))
-- 09/06/2016 - Groupe de Travail des Thésards et Jeunes Docteurs ([GTTJD](http://map5.mi.parisdescartes.fr/seminaires/thesards-docteurs/)), MAP5, Université Paris Descartes
+- 09/06/2016 - [Groupe de Travail des Thésards et Jeunes Docteurs](http://map5.mi.parisdescartes.fr/seminaires/thesards-docteurs/), MAP5, Université Paris Descartes
 - 18/05/2016 - [Séminaire des doctorants de l'EDMH](http://www.math.u-psud.fr/~ecdoct/ecdoct/infos/semdoc.php), Université Paris-Sud
 - 11/04/2016 - [Séminaire de Probabilités et Statistique de Montpellier](http://www.i3m.univ-montp2.fr/seminaires-et-groupes-de-travail/index.php?option=com_content&view=article&id=59&catid=19&histo=13), SupAgro - Montpellier [[Slides]]({{site.baseurl}}/docs/20160411_Montpellier.pdf)
 - 10/02/2016 - [Sauquet Lab Seminar](http://www.sauquetlab.org/), Université Paris Sud
