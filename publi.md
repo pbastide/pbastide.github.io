@@ -10,10 +10,14 @@ weight: 3
   
 # Talks and Posters
 
+- 23/06/2016 - [JOBIM 2016](http://jobim2016.sciencesconf.org/), Lyon
 - 22/06/2015 - [MCEB 2015](http://www.lirmm.fr/mceb2015/index.php) [[Poster]]({{site.baseurl}}/docs/20150622_poster_MCEB.pdf)
 - 02/06/2015 - [47èmes Journées de Statistique de la SFdS](http://jds2015.sfds.asso.fr/) [[Abstract]]({{site.baseurl}}/docs/SFdS_2015_v2.pdf) [[Slides]]({{site.baseurl}}/docs/20150602_JdS.pdf)
 
 # Seminars and Workshops
+- 27/06/2016 - [Séminaire AgroParisTech](https://www6.inra.fr/mia-paris/Seminaires/Seminaire-AgroParisTech)
+- 23/06/2016 - Séminaire Probabilités et Statistiques de l'Université Paris Sud ([Journée des doctorants](http://www.math.u-psud.fr/Journee-des-doctorants))
+- 09/06/2016 - Groupe de Travail des Thésards et Jeunes Docteurs ([GTTJD](http://map5.mi.parisdescartes.fr/seminaires/thesards-docteurs/)), MAP5, Université Paris Descartes
 - 18/05/2016 - [Séminaire des doctorants de l'EDMH](http://www.math.u-psud.fr/~ecdoct/ecdoct/infos/semdoc.php), Université Paris-Sud
 - 11/04/2016 - [Séminaire de Probabilités et Statistique de Montpellier](http://www.i3m.univ-montp2.fr/seminaires-et-groupes-de-travail/index.php?option=com_content&view=article&id=59&catid=19&histo=13), SupAgro - Montpellier [[Slides]]({{site.baseurl}}/docs/20160411_Montpellier.pdf)
 - 10/02/2016 - [Sauquet Lab Seminar](http://www.sauquetlab.org/), Université Paris Sud
