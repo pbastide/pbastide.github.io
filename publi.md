@@ -10,7 +10,7 @@ weight: 3
   
 # Talks and Posters
 
-- 23/06/2016 - [JOBIM 2016](http://jobim2016.sciencesconf.org/), Lyon
+- 23/06/2016 - [JOBIM 2016](http://jobim2016.sciencesconf.org/), Lyon [[Slides]]({{site.baseurl}}/docs/20160628_JOBIM.pdf)
 - 19/04/2016 - [JPS 2016](http://jps.math.cnrs.fr/), École de Physique des Houches
 - 22/06/2015 - [MCEB 2015](http://www.lirmm.fr/mceb2015/index.php) [[Poster]]({{site.baseurl}}/docs/20150622_poster_MCEB.pdf)
 - 02/06/2015 - [47èmes Journées de Statistique de la SFdS](http://jds2015.sfds.asso.fr/) [[Abstract]]({{site.baseurl}}/docs/SFdS_2015_v2.pdf) [[Slides]]({{site.baseurl}}/docs/20150602_JdS.pdf)
