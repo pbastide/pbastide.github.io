@@ -4,7 +4,7 @@ title: Publications
 weight: 3
 ---
 
-# Submited
+# Journal Article
 
 - **P. Bastide**, M. Mariadassou, S. Robin (2016): Detection of adaptive shifts on phylogenies by using shifted stochastic processes on a tree, *Journal of the Royal Statistical Society: Series B (Statistical Methodology)*, [doi:10.1111/rssb.12206](http://onlinelibrary.wiley.com/doi/10.1111/rssb.12206/full) [[arXiv](http://arxiv.org/abs/1508.00225), [bioRxiv](http://biorxiv.org/content/early/2016/02/05/023804)]
   
