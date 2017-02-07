@@ -16,6 +16,7 @@ weight: 3
 - 02/06/2015 - [47èmes Journées de Statistique de la SFdS](http://jds2015.sfds.asso.fr/) [[Abstract]]({{site.baseurl}}/docs/SFdS_2015_v2.pdf) [[Slides]]({{site.baseurl}}/docs/20150602_JdS.pdf)
 
 # Seminars and Workshops
+- 14/11/2016 - Réunion d'équipe [StatInfOmics](http://maiage.jouy.inra.fr/?q=fr/StatInfOmics) - MaIAGE, Jouy-en-Josas
 - 04/10/2016 - [Journées des maths-info de l'INRA](https://journees.inra.fr/maths-info2016)
 - 27/06/2016 - [Séminaire AgroParisTech](https://www6.inra.fr/mia-paris/Seminaires/Seminaire-AgroParisTech)
 - 23/06/2016 - [Séminaire Probabilités et Statistiques de l'Université Paris Sud](http://www.math.u-psud.fr/Journee-des-doctorants) (Journée des doctorants)
