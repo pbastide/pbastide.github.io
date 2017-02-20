@@ -33,4 +33,4 @@ weight: 3
 # Other Publications
 
 - **P. Bastide** and T. David :
-*Discours de réception d’Édouard Estaunié à l’Académie française: définitions croisées de la persona d’un académicien scientifique* ISSN 1913-536X Épistépocritique - Volume 14 - Automne 2014 - Greffes. [[URL]](http://www.epistemocritique.org/spip.php?article390)
+*Discours de réception d’Édouard Estaunié à l’Académie française: définitions croisées de la persona d’un académicien scientifique* ISSN 1913-536X Épistépocritique - Volume 14 - Automne 2014 - Greffes. [[URL]](http://epistemocritique.org/discours-de-reception-dedouard-estaunie-a-lacademie-francaise-definitions-croisees-de-la-persona-dun-academicien-scientifique/)
