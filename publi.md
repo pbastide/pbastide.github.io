@@ -16,9 +16,10 @@ weight: 3
 - 02/06/2015 - [47èmes Journées de Statistique de la SFdS](http://jds2015.sfds.asso.fr/) [[Abstract]]({{site.baseurl}}/docs/SFdS_2015_v2.pdf) [[Slides]]({{site.baseurl}}/docs/20150602_JdS.pdf)
 
 # Seminars and Workshops
-- 14/11/2016 - Réunion d'équipe [StatInfOmics](http://maiage.jouy.inra.fr/?q=fr/StatInfOmics) - MaIAGE, Jouy-en-Josas
+- 23/02/2017 - Bioinformatics Team meeting - INRA, Jouy-en-Josas [[Slides]]({{site.baseurl}}/docs/20170223_bioinfo.pdf)
+- 14/11/2016 - Team meeting, [StatInfOmics](http://maiage.jouy.inra.fr/?q=fr/StatInfOmics) - MaIAGE, Jouy-en-Josas
 - 04/10/2016 - [Journées des maths-info de l'INRA](https://journees.inra.fr/maths-info2016)
-- 27/06/2016 - [Séminaire AgroParisTech](https://www6.inra.fr/mia-paris/Seminaires/Seminaire-AgroParisTech)
+- 27/06/2016 - [AgroParisTech Seminar](https://www6.inra.fr/mia-paris/Seminaires/Seminaire-AgroParisTech)
 - 23/06/2016 - [Séminaire Probabilités et Statistiques de l'Université Paris Sud](http://www.math.u-psud.fr/Journee-des-doctorants) (Journée des doctorants)
 - 09/06/2016 - [Groupe de Travail des Thésards et Jeunes Docteurs](http://map5.mi.parisdescartes.fr/seminaires/thesards-docteurs/), MAP5, Université Paris Descartes
 - 18/05/2016 - [Séminaire des doctorants de l'EDMH](http://www.math.u-psud.fr/~ecdoct/ecdoct/infos/semdoc.php), Université Paris-Sud
