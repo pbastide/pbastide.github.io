@@ -10,7 +10,7 @@ weight: 3
   
 # Talks and Posters
 
-- 13/06/2017 - [MCEB 2017](http://www.lirmm.fr/mceb2017/)[[Poster]]({{site.baseurl}}/docs/201706_poster_MCEB.pdf)
+- 13/06/2017 - [MCEB 2017](http://www.lirmm.fr/mceb2017/) [[Poster]]({{site.baseurl}}/docs/201706_poster_MCEB.pdf)
 - 30/05/2017 - [JdS 2017](http://jds2017.sfds.asso.fr), Avignon [[Abstract]]({{site.baseurl}}/docs/02_jds_2017.pdf) [[Slides]]({{site.baseurl}}/docs/20170530_jds.pdf)
 - 28/06/2016 - [JOBIM 2016](http://jobim2016.sciencesconf.org/), Lyon [[Slides]]({{site.baseurl}}/docs/20160628_JOBIM.pdf)
 - 19/04/2016 - [JPS 2016](http://jps.math.cnrs.fr/), École de Physique des Houches
