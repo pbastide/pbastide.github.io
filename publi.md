@@ -10,7 +10,7 @@ weight: 3
 
 # Preprint
 
-- **P. Bastide**, C. Ané, S. Robin, M. Mariadassou (submitted): Inference of Adaptive Shifts for Multivariate Correlated Traits, [[bioRxiv](http://www.biorxiv.org/content/early/2017/06/05/146191)]
+- **P. Bastide**, C. Ané, S. Robin, M. Mariadassou (submitted): Inference of Adaptive Shifts for Multivariate Correlated Traits. [[bioRxiv](http://www.biorxiv.org/content/early/2017/06/05/146191)]
   
 # Talks and Posters
 
