@@ -2,15 +2,21 @@
 layout: page
 title: Publications
 weight: 3
+bibliography: docs/publications.bib
+csl: docs/chicago.csl
 ---
 
-# Journal Article
+# Published
 
-- **P. Bastide**, M. Mariadassou, S. Robin (2016): Detection of adaptive shifts on phylogenies by using shifted stochastic processes on a tree, *Journal of the Royal Statistical Society: Series B (Statistical Methodology)*, [doi:10.1111/rssb.12206](http://onlinelibrary.wiley.com/doi/10.1111/rssb.12206/full) [[arXiv](http://arxiv.org/abs/1508.00225), [bioRxiv](http://biorxiv.org/content/early/2016/02/05/023804)]
+- [@Bastide2016] [[arXiv](http://arxiv.org/abs/1508.00225), [bioRxiv](http://biorxiv.org/content/early/2016/02/05/023804)]
 
-# Preprint
+- [@Bastide2014] [[URL]](http://epistemocritique.org/discours-de-reception-dedouard-estaunie-a-lacademie-francaise-definitions-croisees-de-la-persona-dun-academicien-scientifique/)
 
-- **P. Bastide**, C. Ané, S. Robin, M. Mariadassou (submitted): Inference of Adaptive Shifts for Multivariate Correlated Traits. [[bioRxiv](http://www.biorxiv.org/content/early/2017/06/05/146191)]
+# Preprint and Submitted
+
+- [@Bastide2017] [[bioRxiv](http://www.biorxiv.org/content/early/2017/06/05/146191)]
+
+- [@Solis-Lemus2017]
   
 # Talks and Posters
 
@@ -36,8 +42,3 @@ weight: 3
 - 22/07/2015 - [Morlon Lab Seminar](http://www.biologie.ens.fr/phyloeco/index.html), IBENS, Paris
 - 09/06/2015 - [SSB Seminar](http://www.ssbgroup.fr/), Jouy-en-Josas
 - 16/02/2015 - MaAIGE Internal Seminar
-
-# Other Publications
-
-- **P. Bastide** and T. David :
-*Discours de réception d’Édouard Estaunié à l’Académie française: définitions croisées de la persona d’un académicien scientifique* ISSN 1913-536X Épistépocritique - Volume 14 - Automne 2014 - Greffes. [[URL]](http://epistemocritique.org/discours-de-reception-dedouard-estaunie-a-lacademie-francaise-definitions-croisees-de-la-persona-dun-academicien-scientifique/)
