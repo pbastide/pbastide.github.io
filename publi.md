@@ -8,15 +8,15 @@ csl: docs/chicago.csl
 
 # Published
 
-- [@Bastide2016] [[arXiv](http://arxiv.org/abs/1508.00225), [bioRxiv](http://biorxiv.org/content/early/2016/02/05/023804)]
+- @Bastide2016 [[arXiv](http://arxiv.org/abs/1508.00225), [bioRxiv](http://biorxiv.org/content/early/2016/02/05/023804)]
 
-- [@Bastide2014] [[URL]](http://epistemocritique.org/discours-de-reception-dedouard-estaunie-a-lacademie-francaise-definitions-croisees-de-la-persona-dun-academicien-scientifique/)
+- @Bastide2014 [[URL]](http://epistemocritique.org/discours-de-reception-dedouard-estaunie-a-lacademie-francaise-definitions-croisees-de-la-persona-dun-academicien-scientifique/)
 
 # Preprint and Submitted
 
-- [@Bastide2017] [[bioRxiv](http://www.biorxiv.org/content/early/2017/06/05/146191)]
+- @Bastide2017 [[bioRxiv](http://www.biorxiv.org/content/early/2017/06/05/146191)]
 
-- [@Solis-Lemus2017]
+- @Solis-Lemus2017
   
 # Talks and Posters
 
