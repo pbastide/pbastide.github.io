@@ -6,7 +6,9 @@ weight: 3
 
 # Journal Article
 
-- **P. Bastide**, M. Mariadassou, S. Robin (2016): Detection of adaptive shifts on phylogenies by using shifted stochastic processes on a tree, *Journal of the Royal Statistical Society: Series B (Statistical Methodology)*, [doi:10.1111/rssb.12206](http://onlinelibrary.wiley.com/doi/10.1111/rssb.12206/full) [[arXiv](http://arxiv.org/abs/1508.00225), [bioRxiv](http://biorxiv.org/content/early/2016/02/05/023804)]
+- C. Solís-Lemus, **P. Bastide**, C. Ané (2017). PhyloNetworks: a package for phylogenetic networks. *Molecular Biology and Evolution*. [doi:10.1093/molbev/msx235](https://doi.org/10.1093/molbev/msx235) [GitHub](https://github.com/crsl4/PhyloNetworks.jl)
+
+- **P. Bastide**, M. Mariadassou, S. Robin (2017). Detection of adaptive shifts on phylogenies by using shifted stochastic processes on a tree. *Journal of the Royal Statistical Society: Series B (Statistical Methodology)*, 79(4), 1067–1093. [doi:10.1111/rssb.12206](https://doi.org/10.1111/rssb.12206) [[arXiv](http://arxiv.org/abs/1508.00225), [bioRxiv](http://www.biorxiv.org/content/early/2016/07/13/023804)]
 
 # Preprint
 
