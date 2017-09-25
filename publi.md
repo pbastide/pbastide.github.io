@@ -4,7 +4,7 @@ title: Publications
 weight: 3
 ---
 
-# Journal Article
+# Journal Articles
 
 * C. Solís-Lemus, **P. Bastide**, C. Ané (2017). PhyloNetworks: a package for phylogenetic networks. *Molecular Biology and Evolution*. [doi:10.1093/molbev/msx235](https://academic.oup.com/mbe/article/doi/10.1093/molbev/msx235/4103410/PhyloNetworks-a-package-for-phylogenetic-networks?guestAccessKey=230afceb-df28-4160-832d-aa7c73f86369), [GitHub](https://github.com/crsl4/PhyloNetworks.jl)
 
