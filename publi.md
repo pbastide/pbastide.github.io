@@ -10,9 +10,10 @@ weight: 3
 
 * **P. Bastide**, M. Mariadassou, S. Robin (2017). Detection of adaptive shifts on phylogenies by using shifted stochastic processes on a tree. *Journal of the Royal Statistical Society: Series B (Statistical Methodology)*, 79(4), 1067–1093. [doi:10.1111/rssb.12206](https://doi.org/10.1111/rssb.12206) [[arXiv](http://arxiv.org/abs/1508.00225), [bioRxiv](http://www.biorxiv.org/content/early/2016/07/13/023804)]
 
-# Preprint
+# Preprints
 
 * **P. Bastide**, C. Ané, S. Robin, M. Mariadassou (submitted): Inference of Adaptive Shifts for Multivariate Correlated Traits. [[bioRxiv](http://www.biorxiv.org/content/early/2017/06/05/146191)]
+* **P. Bastide**, C. Solís-Lemus, R. Kriebel, K.W. Sparks, C. Ané (submitted): Phylogenetic Comparative Methods for Phylogenetic Networks with Reticulations. [[bioRxiv](https://doi.org/10.1101/194050 )]
   
 # Talks and Posters
 
