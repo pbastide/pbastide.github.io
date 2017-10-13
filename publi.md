@@ -40,6 +40,10 @@ weight: 3
 * 09/06/2015 - [SSB Seminar](http://www.ssbgroup.fr/), Jouy-en-Josas
 * 16/02/2015 - MaAIGE Internal Seminar
 
+# PhD Thesis
+
+* *Shifted stochastic processes evolving on trees: application to models of adaptive evolution on phylogenies.* [[Manuscript]({{site.baseurl}}/docs/Bastide_Manuscript_20171011.pdf)]
+
 # Other Publications
 
 * **P. Bastide** and T. David :
