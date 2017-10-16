@@ -27,4 +27,4 @@ MIA Paris
 75005 Paris  
 +33(0)1 44 08 72 16  
 
-paul.bastide[at]agroparistech.fr
+paul.bastide[at]kuleuven.be

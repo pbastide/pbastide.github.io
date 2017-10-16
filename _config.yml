@@ -1,6 +1,6 @@
 # Site settings
 title: Paul Bastide
-email: paul.bastide[at]agroparistech.fr
+email: paul.bastide[at]kuleuven.be
 description: > # this means to ignore newlines until "baseurl:"
   Ph.D. student in statistics
 baseurl: '' # /pbastide.github.io # the subpath of your site, e.g. /blog/
