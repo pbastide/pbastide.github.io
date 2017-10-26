@@ -42,7 +42,7 @@ weight: 3
 
 # PhD Thesis
 
-* *Shifted stochastic processes evolving on trees: application to models of adaptive evolution on phylogenies.* [[Manuscript]({{site.baseurl}}/docs/Bastide_Manuscript_20171011.pdf)]
+* *Shifted stochastic processes evolving on trees: application to models of adaptive evolution on phylogenies.* [[Manuscript]({{site.baseurl}}/docs/Bastide_Manuscript_20171026.pdf)]
 
 # Other Publications
 
