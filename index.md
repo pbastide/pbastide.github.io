@@ -9,22 +9,24 @@ weight : 1
 [photo]: {{site.baseurl}}/docs/DSC03440.JPG
 {: width="150px"} 
 
-I am a Ph.D. student in statistics applied to evolutionnary biology.
+I am a postdoctoral researcher in statistics applied to evolutionnary biology. I work in the Evolutionary and Computational Virology lab,
+supervised by [Philippe Lemey](https://rega.kuleuven.be/cev/ecv), at [KU Leuven](https://www.kuleuven.be/english/).
 
-I am supervised by [Stéphane Robin](https://www6.inra.fr/mia-paris/Equipes/Membres/Stephane-Robin)
-in the [UMR 518](https://www6.inra.fr/mia-paris) (AgroParisTech/INRA)
+I completed my PhD under the supervision of [Stéphane Robin](https://www6.inra.fr/mia-paris/Equipes/Membres/Stephane-Robin)
+at [MIA-Paris](https://www6.inra.fr/mia-paris) (AgroParisTech/INRA)
 and [Mahendra Mariadasou](https://mig.jouy.inra.fr/?q=fr/mariadassou) at [MaIAGE](http://maiage.jouy.inra.fr/) (INRA).
 
-At the fall of 2015, I visited [Cécile Ané](http://www.stat.wisc.edu/~ane/)
+During my PhD, I visited [Cécile Ané](http://www.stat.wisc.edu/~ane/)
 at the [University of Wisconsin - Madison](http://www.wisc.edu/)
 thanks to a Fulbright fellowship.
 During my stay, I have been working in the [Sytsma Lab](http://www.botany.wisc.edu/sytsma/SytsmaLab/Welcome.html).
 
 ## Contact Informations
 
-MIA Paris  
-16, rue Claude Bernard  
-75005 Paris  
-+33(0)1 44 08 72 16  
+Rega Institute
+Evolutionary and Computational Virology Section
+Herestraat 49
+3000 Leuven
+Belgium
 
 paul.bastide[at]kuleuven.be
