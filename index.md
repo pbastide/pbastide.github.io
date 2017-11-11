@@ -23,10 +23,10 @@ During my stay, I have been working in the [Sytsma Lab](http://www.botany.wisc.e
 
 ## Contact Informations
 
-Rega Institute
-Evolutionary and Computational Virology Section
-Herestraat 49
-3000 Leuven
-Belgium
+Rega Institute  
+Evolutionary and Computational Virology Section  
+Herestraat 49  
+3000 Leuven  
+Belgium  
 
 paul.bastide[at]kuleuven.be
