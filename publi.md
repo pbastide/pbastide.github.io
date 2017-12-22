@@ -25,7 +25,7 @@ weight: 3
 * 02/06/2015 - [47èmes Journées de Statistique de la SFdS](http://jds2015.sfds.asso.fr/) [[Abstract]]({{site.baseurl}}/docs/SFdS_2015_v2.pdf) [[Slides]]({{site.baseurl}}/docs/20150602_JdS.pdf)
 
 # Seminars and Workshops
-* 20/11/2017 - [Séminaire joint Mathématiques, Évolution, Biologie (MEB) et Statistiques à l'Institut de Mathématiques de Marseille](https://www.i2m.univ-amu.fr/Seminaire-Mathematiques-Evolution-Biologie-MEB?lang=fr) - Aix Marseille Université.
+* 20/11/2017 - [Séminaire joint Mathématiques, Évolution, Biologie (MEB) et Statistiques à l'Institut de Mathématiques de Marseille](https://www.i2m.univ-amu.fr/Seminaire-Mathematiques-Evolution-Biologie-MEB?lang=fr) - Aix Marseille Université. [[Slides]]({{site.baseurl}}/docs/20171120_I2M.pdf)
 * 08/11/2017 - [BIG meeting](https://gbiomed.kuleuven.be/english/networks/big/monthly-big-meetings) - KU Leuven. [[Slides]]({{site.baseurl}}/docs/20171108_BIG.pdf) [Source available upon request]
 * 23/02/2017 - Bioinformatics Team meeting - INRA, Jouy-en-Josas [[Slides]]({{site.baseurl}}/docs/20170223_bioinfo.pdf)
 * 14/11/2016 - Team meeting, [StatInfOmics](http://maiage.jouy.inra.fr/?q=fr/StatInfOmics) - MaIAGE, Jouy-en-Josas
