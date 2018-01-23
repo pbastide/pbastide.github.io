@@ -6,13 +6,14 @@ weight: 3
 
 # Journal Articles
 
+* **P. Bastide**, C. Ané, S. Robin, M. Mariadassou (in press): Inference of Adaptive Shifts for Multivariate Correlated Traits. *Systematic Biology*. [[bioRxiv](http://www.biorxiv.org/content/early/2017/06/05/146191)]
+
 * C. Solís-Lemus, **P. Bastide**, C. Ané (2017). PhyloNetworks: a package for phylogenetic networks. *Molecular Biology and Evolution*. [doi:10.1093/molbev/msx235](https://academic.oup.com/mbe/article/doi/10.1093/molbev/msx235/4103410/PhyloNetworks-a-package-for-phylogenetic-networks?guestAccessKey=230afceb-df28-4160-832d-aa7c73f86369), [GitHub](https://github.com/crsl4/PhyloNetworks.jl)
 
 * **P. Bastide**, M. Mariadassou, S. Robin (2017). Detection of adaptive shifts on phylogenies by using shifted stochastic processes on a tree. *Journal of the Royal Statistical Society: Series B (Statistical Methodology)*, 79(4), 1067–1093. [doi:10.1111/rssb.12206](https://doi.org/10.1111/rssb.12206) [[arXiv](http://arxiv.org/abs/1508.00225), [bioRxiv](http://www.biorxiv.org/content/early/2016/07/13/023804)]
 
 # Preprints
 
-* **P. Bastide**, C. Ané, S. Robin, M. Mariadassou (submitted): Inference of Adaptive Shifts for Multivariate Correlated Traits. [[bioRxiv](http://www.biorxiv.org/content/early/2017/06/05/146191)]
 * **P. Bastide**, C. Solís-Lemus, R. Kriebel, K.W. Sparks, C. Ané (submitted): Phylogenetic Comparative Methods for Phylogenetic Networks with Reticulations. [[bioRxiv](https://doi.org/10.1101/194050 )]
   
 # Talks and Posters
