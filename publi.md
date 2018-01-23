@@ -15,6 +15,10 @@ weight: 3
 # Preprints
 
 * **P. Bastide**, C. Solís-Lemus, R. Kriebel, K.W. Sparks, C. Ané (submitted): Phylogenetic Comparative Methods for Phylogenetic Networks with Reticulations. [[bioRxiv](https://doi.org/10.1101/194050 )]
+
+# PhD Thesis
+
+* *Shifted stochastic processes evolving on trees: application to models of adaptive evolution on phylogenies.* [[Manuscript](https://tel.archives-ouvertes.fr/tel-01629648)], [[Slides]({{site.baseurl}}/docs/20171019_soutenance.pdf)]
   
 # Talks and Posters
 
@@ -42,10 +46,6 @@ weight: 3
 * 22/07/2015 - [Morlon Lab Seminar](http://www.biologie.ens.fr/phyloeco/index.html), IBENS, Paris
 * 09/06/2015 - [SSB Seminar](http://www.ssbgroup.fr/), Jouy-en-Josas
 * 16/02/2015 - MaAIGE Internal Seminar
-
-# PhD Thesis
-
-* *Shifted stochastic processes evolving on trees: application to models of adaptive evolution on phylogenies.* [[Manuscript]({{site.baseurl}}/docs/Bastide_Manuscript_20171026.pdf)], [[Slides]({{site.baseurl}}/docs/20171019_soutenance.pdf)]
 
 # Other Publications
 
