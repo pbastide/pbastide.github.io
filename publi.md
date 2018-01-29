@@ -6,7 +6,7 @@ weight: 3
 
 # Journal Articles
 
-* **P. Bastide**, C. Ané, S. Robin, M. Mariadassou (2018): Inference of Adaptive Shifts for Multivariate Correlated Traits. *Systematic Biology*. [doi:10.1093/sysbio/syy005](https://academic.oup.com/sysbio/advance-article/doi/10.1093/sysbio/syy005/4827615?guestAccessKey=fba26a20-0579-4721-ad76-8e669489539a), [[bioRxiv](http://www.biorxiv.org/content/early/2017/06/05/146191)]
+* **P. Bastide**, C. Ané, S. Robin, M. Mariadassou (2018): Inference of Adaptive Shifts for Multivariate Correlated Traits. *Systematic Biology*. [doi:10.1093/sysbio/syy005](https://academic.oup.com/sysbio/advance-article/doi/10.1093/sysbio/syy005/4827615?guestAccessKey=fba26a20-0579-4721-ad76-8e669489539a) [[bioRxiv](http://www.biorxiv.org/content/early/2017/06/05/146191)]
 
 * C. Solís-Lemus, **P. Bastide**, C. Ané (2017). PhyloNetworks: a package for phylogenetic networks. *Molecular Biology and Evolution*, 34(12), 3292–3298. [doi:10.1093/molbev/msx235](https://academic.oup.com/mbe/article/doi/10.1093/molbev/msx235/4103410/PhyloNetworks-a-package-for-phylogenetic-networks?guestAccessKey=230afceb-df28-4160-832d-aa7c73f86369), [GitHub](https://github.com/crsl4/PhyloNetworks.jl)
 
