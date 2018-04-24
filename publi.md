@@ -6,21 +6,25 @@ weight: 3
 
 # Journal Articles
 
+* **P. Bastide**, C. Solís-Lemus, R. Kriebel, K.W. Sparks, C. Ané (in press): Phylogenetic Comparative Methods for Phylogenetic Networks with Reticulations. *Systematic Biology*. [[bioRxiv](https://doi.org/10.1101/194050)]
+
 * **P. Bastide**, C. Ané, S. Robin, M. Mariadassou (2018): Inference of Adaptive Shifts for Multivariate Correlated Traits. *Systematic Biology*. [doi:10.1093/sysbio/syy005](https://academic.oup.com/sysbio/advance-article/doi/10.1093/sysbio/syy005/4827615?guestAccessKey=fba26a20-0579-4721-ad76-8e669489539a) [[bioRxiv](http://www.biorxiv.org/content/early/2017/06/05/146191)]
 
-* C. Solís-Lemus, **P. Bastide**, C. Ané (2017). PhyloNetworks: a package for phylogenetic networks. *Molecular Biology and Evolution*, 34(12), 3292–3298. [doi:10.1093/molbev/msx235](https://academic.oup.com/mbe/article/doi/10.1093/molbev/msx235/4103410/PhyloNetworks-a-package-for-phylogenetic-networks?guestAccessKey=230afceb-df28-4160-832d-aa7c73f86369), [GitHub](https://github.com/crsl4/PhyloNetworks.jl)
+* C. Solís-Lemus, **P. Bastide**, C. Ané (2017). PhyloNetworks: a package for phylogenetic networks. *Molecular Biology and Evolution*, 34(12), 3292–3298. [doi:10.1093/molbev/msx235](https://academic.oup.com/mbe/article/doi/10.1093/molbev/msx235/4103410/PhyloNetworks-a-package-for-phylogenetic-networks?guestAccessKey=230afceb-df28-4160-832d-aa7c73f86369)  [[GitHub](https://github.com/crsl4/PhyloNetworks.jl)]
 
 * **P. Bastide**, M. Mariadassou, S. Robin (2017). Detection of adaptive shifts on phylogenies by using shifted stochastic processes on a tree. *Journal of the Royal Statistical Society: Series B (Statistical Methodology)*, 79(4), 1067–1093. [doi:10.1111/rssb.12206](https://doi.org/10.1111/rssb.12206) [[arXiv](http://arxiv.org/abs/1508.00225), [bioRxiv](http://www.biorxiv.org/content/early/2016/07/13/023804)]
 
-# Preprints
+# Softwares
 
-* **P. Bastide**, C. Solís-Lemus, R. Kriebel, K.W. Sparks, C. Ané (submitted): Phylogenetic Comparative Methods for Phylogenetic Networks with Reticulations. [[bioRxiv](https://doi.org/10.1101/194050 )]
+* `PhylogeneticEM` (`R` package, main author) [[CRAN](https://CRAN.R-project.org/package=PhylogeneticEM)] [[GitHub](https://github.com/pbastide/PhylogeneticEM)]
+
+* `PhyloNetworks` (`Julia` package, contributor) [[GitHub](https://github.com/crsl4/PhyloNetworks.jl)]
 
 # PhD Thesis
 
 * *Shifted stochastic processes evolving on trees: application to models of adaptive evolution on phylogenies.* [[Manuscript](https://tel.archives-ouvertes.fr/tel-01629648)], [[Slides]({{site.baseurl}}/docs/20171019_soutenance.pdf)]
-  
-# Talks and Posters
+
+# Contributed Talks and Posters
 
 * 13/06/2017 - [MCEB 2017](http://www.lirmm.fr/mceb2017/) [[Poster]]({{site.baseurl}}/docs/201706_poster_MCEB.pdf)
 * 30/05/2017 - [JdS 2017](http://jds2017.sfds.asso.fr), Avignon [[Abstract]]({{site.baseurl}}/docs/02_jds_2017.pdf) [[Slides]]({{site.baseurl}}/docs/20170530_jds.pdf)
