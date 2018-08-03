@@ -27,7 +27,8 @@ A [small summary](https://www.scoop.it/t/life-sci-news-upsaclay?q=bastide) of th
 
 # Contributed Talks and Posters
 
-* 30/05/2018 - [JdS 2018](http://jds2018.sfds.asso.fr), Saclay, invited speaker for the [Marie-Jeanne Laurent-Duhamel](https://www.sfds.asso.fr/fr/prix_et_bourses/544-le_prix_marie_jeanne_laurent_duhamel/) PhD prize of the French Statistical Society.
+* 21/08/2018 - [II Joint Congress on Evolutionary Biology](https://www.evolutionmontpellier2018.org/), Montpellier.
+* 30/05/2018 - [JdS 2018](http://jds2018.sfds.asso.fr), Saclay, **invited speaker** for the [Marie-Jeanne Laurent-Duhamel](https://www.sfds.asso.fr/fr/prix_et_bourses/544-le_prix_marie_jeanne_laurent_duhamel/) PhD prize of the French Statistical Society.
 * 13/06/2017 - [MCEB 2017](http://www.lirmm.fr/mceb2017/) [[Poster]]({{site.baseurl}}/docs/201706_poster_MCEB.pdf)
 * 30/05/2017 - [JdS 2017](http://jds2017.sfds.asso.fr), Avignon [[Abstract]]({{site.baseurl}}/docs/02_jds_2017.pdf) [[Slides]]({{site.baseurl}}/docs/20170530_jds.pdf)
 * 28/06/2016 - [JOBIM 2016](http://jobim2016.sciencesconf.org/), Lyon [[Slides]]({{site.baseurl}}/docs/20160628_JOBIM.pdf)

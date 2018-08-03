@@ -7,7 +7,7 @@ weight: 4
 # Curent Position
 
 * **2017 - present**: Postdoctoral researcher at KU Leuven, in the Evolutionary and Computational Virology lab,
-supervised by [Philippe Lemey](https://rega.kuleuven.be/cev/ecv)
+supervised by [Philippe Lemey](https://rega.kuleuven.be/cev/ecv).
 
 # Education
 
@@ -23,6 +23,8 @@ and [Mahendra Mariadasou](https://mig.jouy.inra.fr/?q=fr/mariadassou).
 
 # Awards and Fellowhips
 
+* **2018**: Three years postdoctoral fellowship from the [FWO](http://www.fwo.be/en/fellowships-funding/postdoctoral-fellowships/postdoctoral-fellowship/) (Research Foundation - Flanders).
+
 * **2018**: French Statistical Society PhD Award in Applied Statistics.
 ([Prix Marie-Jeanne Laurent-Duhamel](https://www.sfds.asso.fr/fr/prix_et_bourses/544-le_prix_marie_jeanne_laurent_duhamel/), awarded once every three years).
 
@@ -31,4 +33,4 @@ at the [University of Wisconsin - Madison](http://www.wisc.edu/) during my PhD.
 
 # Full CV
 
-* In [English]({{site.baseurl}}/docs/201805CVanglais.pdf) or [French]({{site.baseurl}}/docs/201805CVfrancais.pdf) (last update: May 2018)
+* In [English]({{site.baseurl}}/docs/201808CVanglais.pdf) or [French]({{site.baseurl}}/docs/201808CVfrancais.pdf) (last update: August 2018).
