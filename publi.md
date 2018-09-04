@@ -6,7 +6,7 @@ weight: 3
 
 # Journal Articles
 
-* **P. Bastide**, C. Solís-Lemus, R. Kriebel, K.W. Sparks, C. Ané (2018): Phylogenetic Comparative Methods for Phylogenetic Networks with Reticulations. *Systematic Biology*. [doi:10.1093/sysbio/syy033](https://academic.oup.com/sysbio/advance-article/doi/10.1093/sysbio/syy033/4985806?guestAccessKey=507189f8-9ff2-4e12-b17e-29c2a1b2e7ec) [[bioRxiv](https://doi.org/10.1101/194050)]    
+* **P. Bastide**, C. Solís-Lemus, R. Kriebel, K.W. Sparks, C. Ané (2018): Phylogenetic Comparative Methods for Phylogenetic Networks with Reticulations. *Systematic Biology*, 67(5), 800–820. [doi:10.1093/sysbio/syy033](https://academic.oup.com/sysbio/advance-article/doi/10.1093/sysbio/syy033/4985806?guestAccessKey=507189f8-9ff2-4e12-b17e-29c2a1b2e7ec) [[bioRxiv](https://doi.org/10.1101/194050)]    
 A [small summary](https://www.scoop.it/t/life-sci-news-upsaclay?q=bastide) of the article was published by the Paris Saclay [Life Sciences](https://www.universite-paris-saclay.fr/en/research/department/life-sciences) department (with a picture featuring colorful smileys, in French).
 
 * **P. Bastide**, C. Ané, S. Robin, M. Mariadassou (2018): Inference of Adaptive Shifts for Multivariate Correlated Traits. *Systematic Biology*, 67(4), 662–680. [doi:10.1093/sysbio/syy005](https://academic.oup.com/sysbio/advance-article/doi/10.1093/sysbio/syy005/4827615?guestAccessKey=fba26a20-0579-4721-ad76-8e669489539a) [[bioRxiv](http://www.biorxiv.org/content/early/2017/06/05/146191)]
