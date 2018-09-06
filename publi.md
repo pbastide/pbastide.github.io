@@ -7,7 +7,7 @@ weight: 3
 # Journal Articles
 
 * **P. Bastide**, C. Solís-Lemus, R. Kriebel, K.W. Sparks, C. Ané (2018): Phylogenetic Comparative Methods for Phylogenetic Networks with Reticulations. *Systematic Biology*, 67(5), 800–820. [doi:10.1093/sysbio/syy033](https://academic.oup.com/sysbio/advance-article/doi/10.1093/sysbio/syy033/4985806?guestAccessKey=507189f8-9ff2-4e12-b17e-29c2a1b2e7ec) [[bioRxiv](https://doi.org/10.1101/194050)]    
-A [small summary](https://www.scoop.it/t/life-sci-news-upsaclay?q=bastide) of the article was published by the Paris Saclay [Life Sciences](https://www.universite-paris-saclay.fr/en/research/department/life-sciences) department (with a picture featuring colorful smileys, in French).
+A [small summary](https://www.scoop.it/t/life-sci-news-upsaclay?q=bastide) was published by the Paris Saclay [Life Sciences](https://www.universite-paris-saclay.fr/en/research/department/life-sciences) department (with a picture featuring colorful smileys, in French).
 
 * **P. Bastide**, C. Ané, S. Robin, M. Mariadassou (2018): Inference of Adaptive Shifts for Multivariate Correlated Traits. *Systematic Biology*, 67(4), 662–680. [doi:10.1093/sysbio/syy005](https://academic.oup.com/sysbio/advance-article/doi/10.1093/sysbio/syy005/4827615?guestAccessKey=fba26a20-0579-4721-ad76-8e669489539a) [[bioRxiv](http://www.biorxiv.org/content/early/2017/06/05/146191)]
 
@@ -28,32 +28,33 @@ A [small summary](https://www.scoop.it/t/life-sci-news-upsaclay?q=bastide) of th
 # Contributed Talks and Posters
 
 * 21/08/2018 - [II Joint Congress on Evolutionary Biology](https://www.evolutionmontpellier2018.org/), Montpellier.
-* 30/05/2018 - [JdS 2018](http://jds2018.sfds.asso.fr), Saclay, **invited speaker** for the [Marie-Jeanne Laurent-Duhamel](https://www.sfds.asso.fr/fr/prix_et_bourses/544-le_prix_marie_jeanne_laurent_duhamel/) PhD prize of the French Statistical Society.
-* 13/06/2017 - [MCEB 2017](http://www.lirmm.fr/mceb2017/) [[Poster]]({{site.baseurl}}/docs/201706_poster_MCEB.pdf)
-* 30/05/2017 - [JdS 2017](http://jds2017.sfds.asso.fr), Avignon [[Abstract]]({{site.baseurl}}/docs/02_jds_2017.pdf) [[Slides]]({{site.baseurl}}/docs/20170530_jds.pdf)
-* 28/06/2016 - [JOBIM 2016](http://jobim2016.sciencesconf.org/), Lyon [[Slides]]({{site.baseurl}}/docs/20160628_JOBIM.pdf)
-* 19/04/2016 - [JPS 2016](http://jps.math.cnrs.fr/), École de Physique des Houches
-* 22/06/2015 - [MCEB 2015](http://www.lirmm.fr/mceb2015/index.php) [[Poster]]({{site.baseurl}}/docs/20150622_poster_MCEB.pdf)
-* 02/06/2015 - [47èmes Journées de Statistique de la SFdS](http://jds2015.sfds.asso.fr/) [[Abstract]]({{site.baseurl}}/docs/SFdS_2015_v2.pdf) [[Slides]]({{site.baseurl}}/docs/20150602_JdS.pdf)
+* 30/05/2018 - [JdS 2018](http://jds2018.sfds.asso.fr), Saclay, **invited speaker** for the [Marie-Jeanne Laurent-Duhamel](https://www.sfds.asso.fr/fr/prix_et_bourses/544-le_prix_marie_jeanne_laurent_duhamel/) PhD prize of the French Statistical Society. [[Video](https://www.youtube.com/watch?v=5SSkt2m9pwg&feature=youtu.be&t=1h33m27s)]
+* 13/06/2017 - [MCEB 2017](http://www.lirmm.fr/mceb2017/). [[Poster]]({{site.baseurl}}/docs/201706_poster_MCEB.pdf)
+* 30/05/2017 - [JdS 2017](http://jds2017.sfds.asso.fr), Avignon. [[Abstract]]({{site.baseurl}}/docs/02_jds_2017.pdf) [[Slides]]({{site.baseurl}}/docs/20170530_jds.pdf)
+* 28/06/2016 - [JOBIM 2016](http://jobim2016.sciencesconf.org/), Lyon. [[Slides]]({{site.baseurl}}/docs/20160628_JOBIM.pdf)
+* 19/04/2016 - [JPS 2016](http://jps.math.cnrs.fr/), École de Physique des Houches.
+* 22/06/2015 - [MCEB 2015](http://www.lirmm.fr/mceb2015/index.php). [[Poster]]({{site.baseurl}}/docs/20150622_poster_MCEB.pdf)
+* 02/06/2015 - [47èmes Journées de Statistique de la SFdS](http://jds2015.sfds.asso.fr/). [[Abstract]]({{site.baseurl}}/docs/SFdS_2015_v2.pdf) [[Slides]]({{site.baseurl}}/docs/20150602_JdS.pdf)
 
 # Seminars and Workshops
+* 27/09/2018 - [Séminaires LJK-Probabilités & Statistique](https://www-ljk.imag.fr/Seminars/seminaires-ljk-probabilites_-_statistique.html) - Grenoble.
 * 15/02/2018 - [Rencontres de la chaire Modélisation Mathématique et Biodiversité (MMB)](http://www.cmap.polytechnique.fr/chaire-mmb/programme15022018.html) - Orsay.
 * 20/11/2017 - [Séminaire joint Mathématiques, Évolution, Biologie (MEB) et Statistiques à l'Institut de Mathématiques de Marseille](https://www.i2m.univ-amu.fr/Seminaire-Mathematiques-Evolution-Biologie-MEB?lang=fr) - Aix Marseille Université. [[Slides]]({{site.baseurl}}/docs/20171120_I2M.pdf)
 * 08/11/2017 - [BIG meeting](https://gbiomed.kuleuven.be/english/networks/big/monthly-big-meetings) - KU Leuven. [[Slides]]({{site.baseurl}}/docs/20171108_BIG.pdf) [Source available upon request]
-* 23/02/2017 - Bioinformatics Team meeting - INRA, Jouy-en-Josas [[Slides]]({{site.baseurl}}/docs/20170223_bioinfo.pdf)
-* 14/11/2016 - Team meeting, [StatInfOmics](http://maiage.jouy.inra.fr/?q=fr/StatInfOmics) - MaIAGE, Jouy-en-Josas
-* 04/10/2016 - [Journées des maths-info de l'INRA](https://journees.inra.fr/maths-info2016)
-* 27/06/2016 - [AgroParisTech Seminar](https://www6.inra.fr/mia-paris/Seminaires/Seminaire-AgroParisTech)
-* 23/06/2016 - [Séminaire Probabilités et Statistiques de l'Université Paris Sud](http://www.math.u-psud.fr/Journee-des-doctorants) (Journée des doctorants)
-* 09/06/2016 - [Groupe de Travail des Thésards et Jeunes Docteurs](http://map5.mi.parisdescartes.fr/seminaires/thesards-docteurs/), MAP5, Université Paris Descartes
-* 18/05/2016 - [Séminaire des doctorants de l'EDMH](http://www.math.u-psud.fr/~ecdoct/ecdoct/infos/semdoc.php), Université Paris-Sud
-* 11/04/2016 - [Séminaire de Probabilités et Statistique de Montpellier](http://www.i3m.univ-montp2.fr/seminaires-et-groupes-de-travail/index.php?option=com_content&view=article&id=59&catid=19&histo=13), SupAgro - Montpellier [[Slides]]({{site.baseurl}}/docs/20160411_Montpellier.pdf)
-* 10/02/2016 - [Sauquet Lab Seminar](http://www.sauquetlab.org/), Université Paris Sud
-* 19/11/2015 - [Sytsma Lab Seminar](http://www.botany.wisc.edu/sytsma/SytsmaLab/Welcome.html), University of Wisconsin - Madison [[Slides]]({{site.baseurl}}/docs/20151119_Systma.pdf)
-* 18/11/2015 - [Statistics Seminar](http://www.stat.wisc.edu/seminars-archive/2015-11), University of Wisconsin - Madison [[Abstract]]({{site.baseurl}}/docs/20151118_UWStatistics_Abstract.pdf) [[Slides]]({{site.baseurl}}/docs/20151118_UWstatistics.pdf)
-* 22/07/2015 - [Morlon Lab Seminar](http://www.biologie.ens.fr/phyloeco/index.html), IBENS, Paris
-* 09/06/2015 - [SSB Seminar](http://www.ssbgroup.fr/), Jouy-en-Josas
-* 16/02/2015 - MaAIGE Internal Seminar
+* 23/02/2017 - Bioinformatics Team meeting - INRA, Jouy-en-Josas. [[Slides]]({{site.baseurl}}/docs/20170223_bioinfo.pdf)
+* 14/11/2016 - Team meeting, [StatInfOmics](http://maiage.jouy.inra.fr/?q=fr/StatInfOmics) - MaIAGE, Jouy-en-Josas.
+* 04/10/2016 - [Journées des maths-info de l'INRA](https://journees.inra.fr/maths-info2016).
+* 27/06/2016 - [AgroParisTech Seminar](https://www6.inra.fr/mia-paris/Seminaires/Seminaire-AgroParisTech).
+* 23/06/2016 - [Séminaire Probabilités et Statistiques de l'Université Paris Sud](http://www.math.u-psud.fr/Journee-des-doctorants) (Journée des doctorants).
+* 09/06/2016 - [Groupe de Travail des Thésards et Jeunes Docteurs](http://map5.mi.parisdescartes.fr/seminaires/thesards-docteurs/), MAP5, Université Paris Descartes.
+* 18/05/2016 - [Séminaire des doctorants de l'EDMH](http://www.math.u-psud.fr/~ecdoct/ecdoct/infos/semdoc.php), Université Paris-Sud.
+* 11/04/2016 - [Séminaire de Probabilités et Statistique de Montpellier](http://www.i3m.univ-montp2.fr/seminaires-et-groupes-de-travail/index.php?option=com_content&view=article&id=59&catid=19&histo=13), SupAgro - Montpellier. [[Slides]]({{site.baseurl}}/docs/20160411_Montpellier.pdf)
+* 10/02/2016 - [Sauquet Lab Seminar](http://www.sauquetlab.org/), Université Paris Sud.
+* 19/11/2015 - [Sytsma Lab Seminar](http://www.botany.wisc.edu/sytsma/SytsmaLab/Welcome.html), University of Wisconsin - Madison. [[Slides]]({{site.baseurl}}/docs/20151119_Systma.pdf)
+* 18/11/2015 - [Statistics Seminar](http://www.stat.wisc.edu/seminars-archive/2015-11), University of Wisconsin - Madison. [[Abstract]]({{site.baseurl}}/docs/20151118_UWStatistics_Abstract.pdf), [[Slides]]({{site.baseurl}}/docs/20151118_UWstatistics.pdf)
+* 22/07/2015 - [Morlon Lab Seminar](http://www.biologie.ens.fr/phyloeco/index.html), IBENS, Paris.
+* 09/06/2015 - [SSB Seminar](http://www.ssbgroup.fr/), Jouy-en-Josas.
+* 16/02/2015 - MaAIGE Internal Seminar.
 
 # Other Publications
 
