@@ -6,6 +6,8 @@ weight: 3
 
 # Journal Articles
 
+* L. Aristide , **P. Bastide** , S. F. dos Reis, T. M. Pires dos Santos, R. T. Lopes and S. I. Perez (2018), Multiple factors behind early diversification of skull morphology in the continental radiation of New World monkeys. Evolution. [doi:10.1111/evo.13609](https://onlinelibrary.wiley.com/doi/abs/10.1111/evo.13609)
+
 * **P. Bastide**, C. Solís-Lemus, R. Kriebel, K.W. Sparks, C. Ané (2018): Phylogenetic Comparative Methods for Phylogenetic Networks with Reticulations. *Systematic Biology*, 67(5), 800–820. [doi:10.1093/sysbio/syy033](https://academic.oup.com/sysbio/advance-article/doi/10.1093/sysbio/syy033/4985806?guestAccessKey=507189f8-9ff2-4e12-b17e-29c2a1b2e7ec) [[bioRxiv](https://doi.org/10.1101/194050)]    
 A [small summary](https://www.scoop.it/t/life-sci-news-upsaclay?q=bastide) was published by the Paris Saclay [Life Sciences](https://www.universite-paris-saclay.fr/en/research/department/life-sciences) department (with a picture featuring colorful smileys, in French).
 
