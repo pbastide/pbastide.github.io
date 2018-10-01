@@ -9,7 +9,8 @@ weight : 1
 [photo]: {{site.baseurl}}/docs/DSC03440.JPG
 {: width="150px"} 
 
-I am a postdoctoral researcher in statistics applied to evolutionnary biology. I work in the Evolutionary and Computational Virology lab,
+I am a postdoctoral fellow in statistics applied to evolutionnary biology, with a funding from the [FWO](http://www.fwo.be/en/fellowships-funding/postdoctoral-fellowships/postdoctoral-fellowship/) (Research Foundation - Flanders).
+I work in the Evolutionary and Computational Virology lab,
 supervised by [Philippe Lemey](https://rega.kuleuven.be/cev/ecv), at [KU Leuven](https://www.kuleuven.be/english/).
 
 I completed my PhD under the supervision of [Stéphane Robin](https://www6.inra.fr/mia-paris/Equipes/Membres/Stephane-Robin)
