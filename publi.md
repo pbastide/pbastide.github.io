@@ -39,6 +39,7 @@ A [small summary](https://www.scoop.it/t/life-sci-news-upsaclay?q=bastide) was p
 * 02/06/2015 - [47èmes Journées de Statistique de la SFdS](http://jds2015.sfds.asso.fr/). [[Abstract]]({{site.baseurl}}/docs/SFdS_2015_v2.pdf) [[Slides]]({{site.baseurl}}/docs/20150602_JdS.pdf)
 
 # Seminars and Workshops
+* 28/09/2018 - [Séminaires de l'équipe Statistique et Génome](http://www.math-evry.cnrs.fr/sg/welcome) - Évry. [[Slides]]({{site.baseurl}}/docs/20180928_Evry.pdf)
 * 27/09/2018 - [Séminaires LJK-Probabilités & Statistique](https://www-ljk.imag.fr/Seminars/seminaires-ljk-probabilites_-_statistique.html) - Grenoble.
 * 15/02/2018 - [Rencontres de la chaire Modélisation Mathématique et Biodiversité (MMB)](http://www.cmap.polytechnique.fr/chaire-mmb/programme15022018.html) - Orsay.
 * 20/11/2017 - [Séminaire joint Mathématiques, Évolution, Biologie (MEB) et Statistiques à l'Institut de Mathématiques de Marseille](https://www.i2m.univ-amu.fr/Seminaire-Mathematiques-Evolution-Biologie-MEB?lang=fr) - Aix Marseille Université. [[Slides]]({{site.baseurl}}/docs/20171120_I2M.pdf)
