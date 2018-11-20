@@ -14,7 +14,7 @@ supervised by [Philippe Lemey](https://rega.kuleuven.be/cev/ecv).
 * **2014 - 2017**: Ph.D. in Applied Mathematics:
 *Shifted stochastic processes evolving on trees: application to models of adaptive evolution on phylogenies.*  
 Supervised by [Stéphane Robin](https://www6.inra.fr/mia-paris/Equipes/Membres/Stephane-Robin)
-and [Mahendra Mariadasou](https://mig.jouy.inra.fr/?q=fr/mariadassou).
+and [Mahendra Mariadasou](https://mahendra-mariadassou.github.io/).
 
 * **2013 - 2014**: Master2 [MathSV](http://webens.math.u-psud.fr/-mathematiques-du-vivant-?lang=en)
  *Mathematics for Life Sciences.*
