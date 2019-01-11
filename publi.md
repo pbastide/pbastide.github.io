@@ -6,7 +6,7 @@ weight: 3
 
 # Journal Articles
 
-* L. Aristide , **P. Bastide** , S. F. dos Reis, T. M. Pires dos Santos, R. T. Lopes and S. I. Perez (2018), Multiple factors behind early diversification of skull morphology in the continental radiation of New World monkeys. Evolution. [doi:10.1111/evo.13609](https://onlinelibrary.wiley.com/doi/abs/10.1111/evo.13609)
+* L. Aristide , **P. Bastide** , S. F. dos Reis, T. M. Pires dos Santos, R. T. Lopes and S. I. Perez (2018), Multiple factors behind early diversification of skull morphology in the continental radiation of New World monkeys. *Evolution*. 72(12):2697–2711 [doi:10.1111/evo.13609](https://onlinelibrary.wiley.com/doi/abs/10.1111/evo.13609)
 
 * **P. Bastide**, C. Solís-Lemus, R. Kriebel, K.W. Sparks, C. Ané (2018): Phylogenetic Comparative Methods for Phylogenetic Networks with Reticulations. *Systematic Biology*, 67(5), 800–820. [doi:10.1093/sysbio/syy033](https://academic.oup.com/sysbio/advance-article/doi/10.1093/sysbio/syy033/4985806?guestAccessKey=507189f8-9ff2-4e12-b17e-29c2a1b2e7ec) [[bioRxiv](https://doi.org/10.1101/194050)]    
 A [small summary](https://www.scoop.it/t/life-sci-news-upsaclay?q=bastide) was published by the Paris Saclay [Life Sciences](https://www.universite-paris-saclay.fr/en/research/department/life-sciences) department (with a picture featuring colorful smileys, in French).
@@ -39,6 +39,8 @@ A [small summary](https://www.scoop.it/t/life-sci-news-upsaclay?q=bastide) was p
 * 02/06/2015 - [47èmes Journées de Statistique de la SFdS](http://jds2015.sfds.asso.fr/). [[Abstract]]({{site.baseurl}}/docs/SFdS_2015_v2.pdf) [[Slides]]({{site.baseurl}}/docs/20150602_JdS.pdf)
 
 # Seminars and Workshops
+* 21/01/2019 - [MaIAGE Statistics Seminar](http://maiage.jouy.inra.fr/?q=fr/node/981) - Jouy-en-Josas.
+* 19/10/2018 - [LBBE Seminar](http://lbbe.univ-lyon1.fr/-Equipe-Statistique-en-Grande-.html?lang=fr) - Lyon.
 * 28/09/2018 - [Séminaires de l'équipe Statistique et Génome](http://www.math-evry.cnrs.fr/sg/welcome) - Évry. [[Slides]]({{site.baseurl}}/docs/20180928_Evry.pdf)
 * 27/09/2018 - [Séminaires LJK-Probabilités & Statistique](https://www-ljk.imag.fr/Seminars/seminaires-ljk-probabilites_-_statistique.html) - Grenoble.
 * 15/02/2018 - [Rencontres de la chaire Modélisation Mathématique et Biodiversité (MMB)](http://www.cmap.polytechnique.fr/chaire-mmb/programme15022018.html) - Orsay.
