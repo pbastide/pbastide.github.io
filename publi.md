@@ -39,7 +39,7 @@ A [small summary](https://www.scoop.it/t/life-sci-news-upsaclay?q=bastide) was p
 * 02/06/2015 - [47èmes Journées de Statistique de la SFdS](http://jds2015.sfds.asso.fr/). [[Abstract]]({{site.baseurl}}/docs/SFdS_2015_v2.pdf) [[Slides]]({{site.baseurl}}/docs/20150602_JdS.pdf)
 
 # Seminars and Workshops
-* 21/01/2019 - [MaIAGE Statistics Seminar](http://maiage.jouy.inra.fr/?q=fr/node/981) - Jouy-en-Josas.
+* 21/01/2019 - [MaIAGE Statistics Seminar](http://maiage.jouy.inra.fr/?q=fr/node/981) - Jouy-en-Josas. [[Slides]]({{site.baseurl}}/docs/20190121_Jouy.pdf)
 * 19/10/2018 - [LBBE Seminar](http://lbbe.univ-lyon1.fr/-Equipe-Statistique-en-Grande-.html?lang=fr) - Lyon.
 * 28/09/2018 - [Séminaires de l'équipe Statistique et Génome](http://www.math-evry.cnrs.fr/sg/welcome) - Évry. [[Slides]]({{site.baseurl}}/docs/20180928_Evry.pdf)
 * 27/09/2018 - [Séminaires LJK-Probabilités & Statistique](https://www-ljk.imag.fr/Seminars/seminaires-ljk-probabilites_-_statistique.html) - Grenoble.
