@@ -9,7 +9,7 @@ weight : 1
 [photo]: {{site.baseurl}}/docs/DSC03440.JPG
 {: width="150px"} 
 
-I am a postdoctoral fellow in statistics applied to evolutionnary biology, with a funding from the [FWO](http://www.fwo.be/en/fellowships-funding/postdoctoral-fellowships/postdoctoral-fellowship/) (Research Foundation - Flanders).
+I am a postdoctoral fellow in statistics applied to evolutionnary biology, with a funding from the [FWO](https://www.fwo.be/en/fellowships-funding/postdoctoral-fellowships/junior-postdoctoral-fellowship/) (Research Foundation - Flanders).
 I work in the Evolutionary and Computational Virology lab,
 supervised by [Philippe Lemey](https://rega.kuleuven.be/cev/ecv), at [KU Leuven](https://www.kuleuven.be/english/).
 
@@ -19,7 +19,7 @@ and [Mahendra Mariadasou](https://mahendra-mariadassou.github.io/) at [MaIAGE](h
 
 During my PhD, I visited [Cécile Ané](http://www.stat.wisc.edu/~ane/)
 at the [University of Wisconsin - Madison](http://www.wisc.edu/)
-thanks to a [Fulbright fellowship](fulbright-france.org).
+thanks to a [Fulbright fellowship](http://fulbright-france.org).
 During my stay, I have been working in the [Sytsma Lab](http://www.botany.wisc.edu/sytsma/SytsmaLab/Welcome.html).
 
 ## Contact Informations
