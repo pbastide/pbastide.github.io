@@ -19,7 +19,7 @@ and [Mahendra Mariadasou](https://mahendra-mariadassou.github.io/) at [MaIAGE](h
 
 During my PhD, I visited [Cécile Ané](http://www.stat.wisc.edu/~ane/)
 at the [University of Wisconsin - Madison](http://www.wisc.edu/)
-thanks to a Fulbright fellowship.
+thanks to a [Fulbright fellowship](fulbright-france.org).
 During my stay, I have been working in the [Sytsma Lab](http://www.botany.wisc.edu/sytsma/SytsmaLab/Welcome.html).
 
 ## Contact Informations
