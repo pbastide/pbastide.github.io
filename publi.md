@@ -29,8 +29,8 @@ A [small summary](https://www.scoop.it/t/life-sci-news-upsaclay?q=bastide) was p
 
 # Contributed Talks and Posters
 
-* 29/07/2019 - [JSM 2019](https://ww2.amstat.org/meetings/jsm/2019/index.cfm), Denver. [[Abstract]](https://ww2.amstat.org/meetings/jsm/2019/onlineprogram/AbstractDetails.cfm?abstractid=304526)
-* 05/06/2019 - [JdS 2019](http://jds2019.sfds.asso.fr), Nancy. [[Abstract]](https://toltex.imag.fr/users/RCqls/Workshop/jds2019/resumesLongs/subm25.pdf)
+* 29/07/2019 - [JSM 2019](https://ww2.amstat.org/meetings/jsm/2019/index.cfm), Denver. [[Abstract]](https://ww2.amstat.org/meetings/jsm/2019/onlineprogram/AbstractDetails.cfm?abstractid=304526) [[Speed]]({{site.baseurl}}/docs/20190729_Speed_JSM.pdf) [[Poster]]({{site.baseurl}}/docs/20190730_Poster_JSM.pdf)
+* 05/06/2019 - [JdS 2019](http://jds2019.sfds.asso.fr), Nancy. [[Abstract]](https://toltex.imag.fr/users/RCqls/Workshop/jds2019/resumesLongs/subm25.pdf) [[Slides]]({{site.baseurl}}/docs/20190605_JdS.pdf)
 * 21/08/2018 - [II Joint Congress on Evolutionary Biology](https://www.evolutionmontpellier2018.org/), Montpellier. [[Slides]](https://programme.europa-organisation.com/slides/programme_jointCongressEvolBiology-2018/webconf/639_21082018_0950_antigone1_Paul_Bastide_425/index.html)
 * 30/05/2018 - [JdS 2018](http://jds2018.sfds.asso.fr), Saclay, **invited speaker** for the [Marie-Jeanne Laurent-Duhamel](https://www.sfds.asso.fr/fr/prix_et_bourses/544-le_prix_marie_jeanne_laurent_duhamel/) PhD prize of the French Statistical Society. [[Video](https://www.youtube.com/watch?v=5SSkt2m9pwg&feature=youtu.be&t=1h33m27s)]
 * 13/06/2017 - [MCEB 2017](http://www.lirmm.fr/mceb2017/). [[Poster]]({{site.baseurl}}/docs/201706_poster_MCEB.pdf)
