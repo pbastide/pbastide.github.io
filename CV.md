@@ -23,6 +23,8 @@ and [Mahendra Mariadasou](https://mahendra-mariadassou.github.io/).
 
 # Awards and Fellowhips
 
+* **2019**: [FWO long stay abroad grant](https://www.fwo.be/en/fellowships-funding/international-mobility/outgoing-mobility/grant-for-a-long-stay-abroad/) to visit [Marc Suchard](https://msuchard.faculty.biomath.ucla.edu/) at [UCLA](www.ucla.edu) in the fall.
+
 * **2018**: Three years postdoctoral fellowship from the [FWO](https://www.fwo.be/en/fellowships-funding/postdoctoral-fellowships/junior-postdoctoral-fellowship/) (Research Foundation - Flanders).
 
 * **2018**: French Statistical Society PhD Award in Applied Statistics.

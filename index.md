@@ -13,6 +13,8 @@ I am a postdoctoral fellow in statistics applied to evolutionnary biology, with 
 I work in the Evolutionary and Computational Virology lab,
 supervised by [Philippe Lemey](https://rega.kuleuven.be/cev/ecv), at [KU Leuven](https://www.kuleuven.be/english/).
 
+This fall, I will be visiting [Marc Suchard](https://msuchard.faculty.biomath.ucla.edu/) at [UCLA](www.ucla.edu) thanks to an FWO travel grant.
+
 I completed my PhD under the supervision of [Stéphane Robin](https://www6.inra.fr/mia-paris/Equipes/Membres/Stephane-Robin)
 at [MIA-Paris](https://www6.inra.fr/mia-paris) (AgroParisTech/INRA)
 and [Mahendra Mariadasou](https://mahendra-mariadassou.github.io/) at [MaIAGE](http://maiage.jouy.inra.fr/) (INRA).
