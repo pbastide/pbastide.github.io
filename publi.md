@@ -41,6 +41,7 @@ A [small summary](https://www.scoop.it/t/life-sci-news-upsaclay?q=bastide) was p
 * 02/06/2015 - [47èmes Journées de Statistique de la SFdS](http://jds2015.sfds.asso.fr/). [[Abstract]]({{site.baseurl}}/docs/SFdS_2015_v2.pdf) [[Slides]]({{site.baseurl}}/docs/20150602_JdS.pdf)
 
 # Seminars and Workshops
+* 25/10/2019 - [Statistics Seminar](https://www.math.txstate.edu/seminars/statistics.html), Texas State University, Austin, Texas. [[Abstract]]({{site.baseurl}}/docs/20191025_TexasState_Abstract.pdf)
 * 25/04/2019 - [LMO Statistics Seminar](https://www.math.u-psud.fr/TBA-51330?lang=fr) - Orsay.
 * 21/01/2019 - [MaIAGE Statistics Seminar](http://maiage.jouy.inra.fr/?q=fr/node/981) - Jouy-en-Josas. [[Slides]]({{site.baseurl}}/docs/20190121_Jouy.pdf)
 * 19/10/2018 - [LBBE Seminar](http://lbbe.univ-lyon1.fr/-Equipe-Statistique-en-Grande-.html?lang=fr) - Lyon.
