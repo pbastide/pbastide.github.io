@@ -6,10 +6,12 @@ weight: 4
 
 # Curent Position
 
-* **2017 - present**: Postdoctoral researcher at KU Leuven, in the Evolutionary and Computational Virology lab,
-supervised by [Philippe Lemey](https://rega.kuleuven.be/cev/ecv).
+* **2020 - present**: CNRS researcher (CRCN) at [IMAG](imag.edu.umontpellier.fr) (Université de Montpellier).
 
-# Education
+# Education and Previous Positions
+
+* **2017 - 2019**: Postdoctoral researcher at KU Leuven, in the Evolutionary and Computational Virology lab,
+supervised by [Philippe Lemey](https://rega.kuleuven.be/cev/ecv).
 
 * **2014 - 2017**: Ph.D. in Applied Mathematics:
 *Shifted stochastic processes evolving on trees: application to models of adaptive evolution on phylogenies.*  

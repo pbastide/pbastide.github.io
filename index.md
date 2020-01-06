@@ -9,11 +9,10 @@ weight : 1
 [photo]: {{site.baseurl}}/docs/DSC03440.JPG
 {: width="150px"} 
 
-I am a postdoctoral fellow in statistics applied to evolutionnary biology, with a funding from the [FWO](https://www.fwo.be/en/fellowships-funding/postdoctoral-fellowships/junior-postdoctoral-fellowship/) (Research Foundation - Flanders).
-I work in the Evolutionary and Computational Virology lab,
-supervised by [Philippe Lemey](https://rega.kuleuven.be/cev/ecv), at [KU Leuven](https://www.kuleuven.be/english/).
+I am a CNRS researcher (CRCN) at [IMAG](imag.edu.umontpellier.fr) (Université de Montpellier), working in statistics applied to evolutionary biology.
 
-This fall, I will be visiting [Marc Suchard](https://msuchard.faculty.biomath.ucla.edu/) at [UCLA](http://www.ucla.edu/) thanks to an FWO travel grant.
+Previously, I was a postdoctoral fellow in the Evolutionary and Computational Virology lab,
+working with [Philippe Lemey](https://rega.kuleuven.be/cev/ecv) at [KU Leuven](https://www.kuleuven.be/english/) and [Marc Suchard](https://msuchard.faculty.biomath.ucla.edu/) at [UCLA](http://www.ucla.edu/), with a funding from the [FWO](https://www.fwo.be/en/fellowships-funding/postdoctoral-fellowships/junior-postdoctoral-fellowship/) (Research Foundation - Flanders).
 
 I completed my PhD under the supervision of [Stéphane Robin](https://www6.inra.fr/mia-paris/Equipes/Membres/Stephane-Robin)
 at [MIA-Paris](https://www6.inra.fr/mia-paris) (AgroParisTech/INRA)
@@ -24,12 +23,13 @@ at the [University of Wisconsin - Madison](http://www.wisc.edu/)
 thanks to a [Fulbright fellowship](http://fulbright-france.org).
 During my stay, I have been working in the [Sytsma Lab](http://www.botany.wisc.edu/sytsma/SytsmaLab/Welcome.html).
 
-## Contact Informations
+## Contact Information
 
-Rega Institute  
-Evolutionary and Computational Virology Section  
-Herestraat 49  
-3000 Leuven  
-Belgium  
+IMAG 
+Université de Montpellier
+Place Eugène Bataillon
+Bâtiment 9, bureau 301 
+34090 Montpellier
+France
 
-paul.bastide[at]kuleuven.be
+paul.bastide[at]umontpellier.fr
