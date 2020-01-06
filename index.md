@@ -9,7 +9,7 @@ weight : 1
 [photo]: {{site.baseurl}}/docs/DSC03440.JPG
 {: width="150px"} 
 
-I am a CNRS researcher (CRCN) at [IMAG](imag.edu.umontpellier.fr) (Université de Montpellier), working in statistics applied to evolutionary biology.
+I am a CNRS researcher (CRCN) at [IMAG](https://imag.edu.umontpellier.fr) (Université de Montpellier), working in statistics applied to evolutionary biology.
 
 Previously, I was a postdoctoral fellow in the Evolutionary and Computational Virology lab,
 working with [Philippe Lemey](https://rega.kuleuven.be/cev/ecv) at [KU Leuven](https://www.kuleuven.be/english/) and [Marc Suchard](https://msuchard.faculty.biomath.ucla.edu/) at [UCLA](http://www.ucla.edu/), with a funding from the [FWO](https://www.fwo.be/en/fellowships-funding/postdoctoral-fellowships/junior-postdoctoral-fellowship/) (Research Foundation - Flanders).
@@ -25,11 +25,11 @@ During my stay, I have been working in the [Sytsma Lab](http://www.botany.wisc.e
 
 ## Contact Information
 
-IMAG 
-Université de Montpellier
-Place Eugène Bataillon
-Bâtiment 9, bureau 301 
-34090 Montpellier
-France
+IMAG  
+Université de Montpellier  
+Place Eugène Bataillon  
+Bâtiment 9, bureau 301  
+34090 Montpellier  
+France  
 
 paul.bastide[at]umontpellier.fr
