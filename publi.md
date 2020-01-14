@@ -25,7 +25,7 @@ A [small summary](https://www.scoop.it/t/life-sci-news-upsaclay?q=bastide) was p
 
 * `BEAST` (written in `java`, contributor) [[GitHub](https://github.com/beast-dev/beast-mcmc)]
 
-* `nosoi` (`R` package, contributor) [[CRAN](https://CRAN.R-project.org/package=PhylogeneticEM)] [[GitHub](https://github.com/slequime/nosoi)]
+* `nosoi` (`R` package, contributor) [[CRAN](https://CRAN.R-project.org/package=nosoi)] [[GitHub](https://github.com/slequime/nosoi)]
 
 # PhD Thesis
 
