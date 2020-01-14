@@ -23,6 +23,10 @@ A [small summary](https://www.scoop.it/t/life-sci-news-upsaclay?q=bastide) was p
 
 * `PhyloNetworks` (`Julia` package, contributor) [[GitHub](https://github.com/crsl4/PhyloNetworks.jl)]
 
+* `BEAST` (written in `java`, contributor) [[GitHub](https://github.com/beast-dev/beast-mcmc)]
+
+* `nosoi` (`R` package, contributor) [[CRAN](https://CRAN.R-project.org/package=PhylogeneticEM)] [[GitHub](https://github.com/slequime/nosoi)]
+
 # PhD Thesis
 
 * *Shifted stochastic processes evolving on trees: application to models of adaptive evolution on phylogenies.* [[Manuscript](https://tel.archives-ouvertes.fr/tel-01629648)], [[Slides]({{site.baseurl}}/docs/20171019_soutenance.pdf)]
