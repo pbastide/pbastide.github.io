@@ -37,4 +37,4 @@ at the [University of Wisconsin - Madison](http://www.wisc.edu/) during my PhD.
 
 # Full CV
 
-* In [English]({{site.baseurl}}/docs/201905CVen.pdf) or [French]({{site.baseurl}}/docs/201905CVfr.pdf) (last update: May 2019).
+* In [English]({{site.baseurl}}/docs/202003CVen.pdf) or [French]({{site.baseurl}}/docs/202003CVfr.pdf) (last update: March 2020).
