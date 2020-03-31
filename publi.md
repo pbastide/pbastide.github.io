@@ -4,6 +4,17 @@ title: Publications
 weight: 3
 ---
 
+# Preprints
+
+* **P. Bastide**, L.S.T. Ho, G. Baele, P. Lemey, and M.A. Suchard, (2020), Efficient Bayesian Inference of General Gaussian Models on Large Phylogenetic Trees. *arXiv*. [2003.10336](http://arxiv.org/abs/2003.10336)
+
+* S. Lequime, **P. Bastide**, S. Dellicour, P. Lemey, and G. Baele, (2020), nosoi: a stochastic agent-based transmission chain simulation framework in R. *BioRxiv*. [doi:10.1101/2020.03.03.973107](https://doi.org/10.1101/2020.03.03.973107)
+
+* Z. Zhang, A. Nishimura, **P. Bastide**, X. Ji, R.P. Payne, P. Goulder, P. Lemey, and M.A. Suchard, (2019), Large-scale inference of correlation among mixed-type biological traits with phylogenetic multivariate probit models. *arXiv*.
+[1912.09185](http://arxiv.org/abs/1912.09185).
+
+* S. Dellicour, S. Lequime, B. Vrancken, M.S. Gill, **P. Bastide**, et al. (2019), Phylogeographic and phylodynamic approaches to epidemiological hypothesis testing. *BioRxiv*. [doi:10.1101/788059](https://doi.org/10.1101/788059)
+
 # Journal Articles
 
 * L. Aristide , **P. Bastide** , S. F. dos Reis, T. M. Pires dos Santos, R. T. Lopes and S. I. Perez (2018), Multiple factors behind early diversification of skull morphology in the continental radiation of New World monkeys. *Evolution*. 72(12):2697–2711 [doi:10.1111/evo.13609](https://onlinelibrary.wiley.com/doi/abs/10.1111/evo.13609)
