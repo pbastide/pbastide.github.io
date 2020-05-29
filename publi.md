@@ -3,10 +3,8 @@ layout: page
 title: Publications
 weight: 3
 ---
-
-# Journal Articles
-
-## Preprints
+  
+# Preprints
 
 * **P. Bastide**, L.S.T. Ho, G. Baele, P. Lemey, M.A. Suchard (2020), Efficient Bayesian Inference of General Gaussian Models on Large Phylogenetic Trees. *arXiv*. [2003.10336](http://arxiv.org/abs/2003.10336)
 
@@ -15,13 +13,13 @@ weight: 3
 
 * S. Dellicour, S. Lequime, B. Vrancken, M.S. Gill, **P. Bastide**, K. Gangavarapu, N.L. Matteson, Y. Tan, L. du Plessis, A.A. Fisher, M.I. Nelson, M. Gilbert, M.A. Suchard, K.G. Andersen, N.D. Grubaugh, O.G. Pybus, P. Lemey (2019), Phylogeographic and phylodynamic approaches to epidemiological hypothesis testing. *bioRxiv*. [doi:10.1101/788059](https://doi.org/10.1101/788059)
 
-## 2020
+# 2020
 
 * S. Lequime, **P. Bastide**, S. Dellicour, P. Lemey, G. Baele (2020), nosoi: a stochastic agent-based transmission chain simulation framework in R. *Methods in Ecology and Evolution*. [doi:10.1111/2041-210X.13422]( https://doi.org/10.1111/2041-210X.13422) [[bioRxiv](https://doi.org/10.1101/2020.03.03.973107)]
 
 * G. Baele, M.S. Gill, **P. Bastide**, P. Lemey, M.A. Suchard (2020), Markov-modulated continuous-time Markov chains to identify site- and branch-specific evolutionary variation in BEAST. *Systematic Biology*. [doi:10.1093/sysbio/syaa037](https://doi.org/10.1093/sysbio/syaa037)
 
-## 2018
+# 2018
 
 * L. Aristide , **P. Bastide** , S. F. dos Reis, T. M. Pires dos Santos, R. T. Lopes, S. I. Perez (2018), Multiple factors behind early diversification of skull morphology in the continental radiation of New World monkeys. *Evolution*. 72(12):2697–2711 [doi:10.1111/evo.13609](https://onlinelibrary.wiley.com/doi/abs/10.1111/evo.13609)
 
@@ -30,7 +28,7 @@ A [small summary](https://www.scoop.it/t/life-sci-news-upsaclay?q=bastide) was p
 
 * **P. Bastide**, C. Ané, S. Robin, M. Mariadassou (2018): Inference of Adaptive Shifts for Multivariate Correlated Traits. *Systematic Biology*, 67(4), 662–680. [doi:10.1093/sysbio/syy005](https://academic.oup.com/sysbio/advance-article/doi/10.1093/sysbio/syy005/4827615?guestAccessKey=fba26a20-0579-4721-ad76-8e669489539a) [[bioRxiv](http://www.biorxiv.org/content/early/2017/06/05/146191)]
 
-## 2017
+# 2017
 
 * C. Solís-Lemus, **P. Bastide**, C. Ané (2017). PhyloNetworks: a package for phylogenetic networks. *Molecular Biology and Evolution*, 34(12), 3292–3298. [doi:10.1093/molbev/msx235](https://academic.oup.com/mbe/article/doi/10.1093/molbev/msx235/4103410/PhyloNetworks-a-package-for-phylogenetic-networks?guestAccessKey=230afceb-df28-4160-832d-aa7c73f86369)  [[GitHub](https://github.com/crsl4/PhyloNetworks.jl)]
 
