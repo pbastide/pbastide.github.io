@@ -9,9 +9,9 @@ weight : 1
 [photo]: {{site.baseurl}}/docs/DSC03440.JPG
 {: width="150px"} 
 
-I am a CNRS researcher (CRCN) at [IMAG](https://imag.edu.umontpellier.fr) (Université de Montpellier), working in statistics applied to evolutionary biology.
+I am a CNRS junior researcher (CRCN) at the [Institut Montpelliérain Alexander Grothendieck](https://imag.edu.umontpellier.fr) (IMAG, Université de Montpellier), working in Statistics applied to Evolutionary Biology.
 
-## Contact Information
+# Contact Information
 
 IMAG  
 Université de Montpellier  
