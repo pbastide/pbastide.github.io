@@ -15,13 +15,13 @@ weight: 3
 
 # 2020
 
-* S. Lequime, **P. Bastide**, S. Dellicour, P. Lemey, G. Baele (2020), nosoi: a stochastic agent-based transmission chain simulation framework in R. *Methods in Ecology and Evolution*. [doi:10.1111/2041-210X.13422]( https://doi.org/10.1111/2041-210X.13422) [[bioRxiv](https://doi.org/10.1101/2020.03.03.973107)]
+* S. Lequime, **P. Bastide**, S. Dellicour, P. Lemey, G. Baele (2020), nosoi: a stochastic agent-based transmission chain simulation framework in R. *Methods in Ecology and Evolution*, 11, 1002-1007. [doi:10.1111/2041-210X.13422]( https://doi.org/10.1111/2041-210X.13422) [[bioRxiv](https://doi.org/10.1101/2020.03.03.973107)]
 
 * G. Baele, M.S. Gill, **P. Bastide**, P. Lemey, M.A. Suchard (2020), Markov-modulated continuous-time Markov chains to identify site- and branch-specific evolutionary variation in BEAST. *Systematic Biology*. [doi:10.1093/sysbio/syaa037](https://doi.org/10.1093/sysbio/syaa037)
 
 # 2018
 
-* L. Aristide , **P. Bastide** , S. F. dos Reis, T. M. Pires dos Santos, R. T. Lopes, S. I. Perez (2018), Multiple factors behind early diversification of skull morphology in the continental radiation of New World monkeys. *Evolution*. 72(12):2697–2711 [doi:10.1111/evo.13609](https://onlinelibrary.wiley.com/doi/abs/10.1111/evo.13609)
+* L. Aristide , **P. Bastide** , S. F. dos Reis, T. M. Pires dos Santos, R. T. Lopes, S. I. Perez (2018), Multiple factors behind early diversification of skull morphology in the continental radiation of New World monkeys. *Evolution*, 72(12), 2697–2711. [doi:10.1111/evo.13609](https://onlinelibrary.wiley.com/doi/abs/10.1111/evo.13609)
 
 * **P. Bastide**, C. Solís-Lemus, R. Kriebel, K.W. Sparks, C. Ané (2018): Phylogenetic Comparative Methods for Phylogenetic Networks with Reticulations. *Systematic Biology*, 67(5), 800–820. [doi:10.1093/sysbio/syy033](https://academic.oup.com/sysbio/advance-article/doi/10.1093/sysbio/syy033/4985806?guestAccessKey=507189f8-9ff2-4e12-b17e-29c2a1b2e7ec) [[bioRxiv](https://doi.org/10.1101/194050)]    
 A [small summary](https://www.scoop.it/t/life-sci-news-upsaclay?q=bastide) was published by the Paris Saclay [Life Sciences](https://www.universite-paris-saclay.fr/en/research/department/life-sciences) department (with a picture featuring colorful smileys, in French).
