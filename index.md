@@ -6,7 +6,7 @@ weight : 1
 {: style="text-align: right"}
 ![photo]
 
-[photo]: {{site.baseurl}}/docs/DSC03440.JPG
+[photo]: {{site.baseurl}}/docs/2020_08_photo.png
 {: width="150px"} 
 
 I am a CNRS junior researcher (CRCN) at the [Institut Montpelliérain Alexander Grothendieck](https://imag.edu.umontpellier.fr) (IMAG, Université de Montpellier), working in Statistics applied to Evolutionary Biology.
