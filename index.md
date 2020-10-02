@@ -4,7 +4,7 @@ title: About
 weight : 1
 ---
 
-<img align="right" width="150" src="{{site.baseurl}}/docs/202008_photo.png">
+<img align="right" width="150" hspace="20" src="{{site.baseurl}}/docs/202008_photo.png">
 
 I am a CNRS junior researcher (CRCN) at the [Institut Montpelliérain Alexander Grothendieck](https://imag.edu.umontpellier.fr) (IMAG, Université de Montpellier), working in Statistics applied to Evolutionary Biology.
 
