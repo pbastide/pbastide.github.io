@@ -65,8 +65,8 @@ A [small summary](https://www.scoop.it/t/life-sci-news-upsaclay?q=bastide) was p
 
 <!-- 
 * 03/06/2020 - [Journées Aléatoires Bordeaux Toulouse Montpellier](https://jal-bmt.sciencesconf.org/) - Montpellier.
-* 11/05/2020 - [Séminaire de Statistique de l'IMAG](https://imag.edu.umontpellier.fr/seminaires/seminaire-de-probabilites-et-statistiques/) - Montpellier.
 -->
+* 12/10/2020 - [Séminaire de Statistique de l'IMAG](https://imag.edu.umontpellier.fr/seminaires/seminaire-de-probabilites-et-statistiques/) - Montpellier.
 * 25/02/2020 - [Séminaire de Statistique du LPSM](http://www.lpsm.paris/agenda/seminaires-gdt/seminaire-statistique/) - Paris Diderot.
 * 25/10/2019 - [Statistics Seminar](https://www.math.txstate.edu/seminars/statistics.html), Texas State University, Austin, Texas. [[Abstract]]({{site.baseurl}}/docs/20191025_TexasState_Abstract.pdf)
 * 25/04/2019 - [LMO Statistics Seminar](https://www.math.u-psud.fr/TBA-51330?lang=fr) - Orsay.
