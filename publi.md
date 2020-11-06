@@ -11,9 +11,9 @@ weight: 3
 * Z. Zhang, A. Nishimura, **P. Bastide**, X. Ji, R.P. Payne, P. Goulder, P. Lemey, M.A. Suchard (2019), Large-scale inference of correlation among mixed-type biological traits with phylogenetic multivariate probit models. *arXiv*.
 [1912.09185](http://arxiv.org/abs/1912.09185).
 
-* S. Dellicour, S. Lequime, B. Vrancken, M.S. Gill, **P. Bastide**, K. Gangavarapu, N.L. Matteson, Y. Tan, L. du Plessis, A.A. Fisher, M.I. Nelson, M. Gilbert, M.A. Suchard, K.G. Andersen, N.D. Grubaugh, O.G. Pybus, P. Lemey (2019), Phylogeographic and phylodynamic approaches to epidemiological hypothesis testing. *bioRxiv*. [doi:10.1101/788059](https://doi.org/10.1101/788059)
-
 # 2020
+
+* S. Dellicour, S. Lequime, B. Vrancken, M.S. Gill, **P. Bastide**, K. Gangavarapu, N.L. Matteson, Y. Tan, L. du Plessis, A.A. Fisher, M.I. Nelson, M. Gilbert, M.A. Suchard, K.G. Andersen, N.D. Grubaugh, O.G. Pybus, P. Lemey (2020), Epidemiological hypothesis testing using a phylogeographic and phylodynamic framework. *Nature Communications*, 11, 5620. [doi:10.1038/s41467-020-19122-z](https://doi.org/10.1038/s41467-020-19122-z)
 
 * S. Lequime, **P. Bastide**, S. Dellicour, P. Lemey, G. Baele (2020), nosoi: a stochastic agent-based transmission chain simulation framework in R. *Methods in Ecology and Evolution*, 11, 1002-1007. [doi:10.1111/2041-210X.13422]( https://doi.org/10.1111/2041-210X.13422) [[bioRxiv](https://doi.org/10.1101/2020.03.03.973107)]
 
