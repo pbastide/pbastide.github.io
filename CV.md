@@ -36,4 +36,4 @@ and [Mahendra Mariadasou](https://mahendra-mariadassou.github.io/) ([MaIAGE](htt
 
 # Full CV
 
-* In [English]({{site.baseurl}}/docs/202003CVen.pdf) or [French]({{site.baseurl}}/docs/202003CVfr.pdf) (last update: March 2020).
+* In [English]({{site.baseurl}}/docs/202011CVen.pdf) or [French]({{site.baseurl}}/docs/202011CVfr.pdf) (last update: November 2020).
