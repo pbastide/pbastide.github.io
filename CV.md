@@ -4,7 +4,7 @@ title: CV
 weight: 4
 ---
 
-# Curent Position
+# Current Position
 
 * **2020 - present**: CNRS researcher (CRCN) at [IMAG](https://imag.edu.umontpellier.fr) (Université de Montpellier).
 
