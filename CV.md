@@ -10,10 +10,10 @@ weight: 4
 
 # Education and Previous Positions
 
-* **2017 - 2019**: Postdoctoral researcher at KU Leuven, in the Evolutionary and Computational Virology lab,
-supervised by [Philippe Lemey](https://rega.kuleuven.be/cev/ecv) (KU Leuven) and [Marc Suchard](https://msuchard.faculty.biomath.ucla.edu/) (UCLA).
+* **2017 - 2019**: Postdoctoral researcher at KU Leuven, Evolutionary and Computational Virology lab  
+Supervised by [Philippe Lemey](https://rega.kuleuven.be/cev/ecv) (KU Leuven) and [Marc Suchard](https://msuchard.faculty.biomath.ucla.edu/) (UCLA).
 
-* **2014 - 2017**: Ph.D. in Applied Mathematics:
+* **2014 - 2017**: Ph.D. in Applied Mathematics
 *Shifted stochastic processes evolving on trees: application to models of adaptive evolution on phylogenies.*  
 Supervised by [Stéphane Robin](https://www6.inrae.fr/mia-paris/Equipes/Membres/Stephane-Robin) ([MIA-Paris](https://www6.inrae.fr/mia-paris))
 and [Mahendra Mariadasou](https://mahendra-mariadassou.github.io/) ([MaIAGE](https://maiage.inrae.fr/)).
