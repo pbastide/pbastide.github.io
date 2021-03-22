@@ -8,8 +8,10 @@ weight: 3
 
 * **P. Bastide**, L.S.T. Ho, G. Baele, P. Lemey, M.A. Suchard (2020), Efficient Bayesian Inference of General Gaussian Models on Large Phylogenetic Trees. *arXiv*. [2003.10336](http://arxiv.org/abs/2003.10336)
 
-* Z. Zhang, A. Nishimura, **P. Bastide**, X. Ji, R.P. Payne, P. Goulder, P. Lemey, M.A. Suchard (2019), Large-scale inference of correlation among mixed-type biological traits with phylogenetic multivariate probit models. *arXiv*.
-[1912.09185](http://arxiv.org/abs/1912.09185).
+# 2021
+
+* Z. Zhang, A. Nishimura, **P. Bastide**, X. Ji, R.P. Payne, P. Goulder, P. Lemey, M.A. Suchard (2021), Large-scale inference of correlation among mixed-type biological traits with phylogenetic multivariate probit models. *Annals of Applied Statistics*, 15(1), 230-251.
+[doi:10.1214/20-AOAS1394](https://projecteuclid.org/journals/annals-of-applied-statistics/volume-15/issue-1/Large-scale-inference-of-correlation-among-mixed-type-biological-traits/10.1214/20-AOAS1394.short) [arxiv:1912.09185](http://arxiv.org/abs/1912.09185).
 
 # 2020
 
@@ -17,7 +19,7 @@ weight: 3
 
 * S. Lequime, **P. Bastide**, S. Dellicour, P. Lemey, G. Baele (2020), nosoi: a stochastic agent-based transmission chain simulation framework in R. *Methods in Ecology and Evolution*, 11, 1002-1007. [doi:10.1111/2041-210X.13422]( https://doi.org/10.1111/2041-210X.13422) [[bioRxiv](https://doi.org/10.1101/2020.03.03.973107)]
 
-* G. Baele, M.S. Gill, **P. Bastide**, P. Lemey, M.A. Suchard (2020), Markov-modulated continuous-time Markov chains to identify site- and branch-specific evolutionary variation in BEAST. *Systematic Biology*. [doi:10.1093/sysbio/syaa037](https://doi.org/10.1093/sysbio/syaa037)
+* G. Baele, M.S. Gill, **P. Bastide**, P. Lemey, M.A. Suchard (2020), Markov-modulated continuous-time Markov chains to identify site- and branch-specific evolutionary variation in BEAST. *Systematic Biology*, 70(1), 181-189. [doi:10.1093/sysbio/syaa037](https://doi.org/10.1093/sysbio/syaa037)
 
 # 2018
 
