@@ -23,8 +23,7 @@ Material available on
 
 # 2014 - 2017 - Université Paris Sud
 
-* **Introduction to Mathematical Modeling**, *Bachelor level*, Applied
-Mathematics (L3). [Springs 2015/16/17]
+* **Introduction to Mathematical Modeling**, *Bachelor level*, Mathematics (L3). [Springs 2015/16/17]
 * **Introduction to Statistics**, *Bachelor level*, Biology (L2). [Fall 2016]
 * **Mathematics for Biology**, *Bachelor level*, Biology (L1). [Fall 2016]
 * **Measure Theory and Probabilities**, *Bachelor level*, Mathematics (L3). [Spring 2016]
