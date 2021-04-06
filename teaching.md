@@ -13,7 +13,7 @@ and on the [Course Site](https://hmma201.netlify.app/).
 
 * **Data visualization**, *Engineering school*, program *"Développement informatique et exploitation Opérationnelle"* at [Polytech Montpellier](https://www.polytech.umontpellier.fr/formation/cycle-ingenieur/devops/enseignements-do).  
 Material available on
-[GitHub](https://github.com/pbastide/HMMA201).
+[GitHub](https://github.com/pbastide/do3-dataviz).
 
 # 2017 - 2018 - KU Leuven
 
