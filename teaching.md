@@ -6,11 +6,14 @@ weight: 4
   
 # 2020 - 2021 - Montpellier
 
-* **Linear Regression**, *Master 1* *"Biostatistique"* and *"MIND"* at [Université de Montpellier](https://maths-fds.edu.umontpellier.fr/offres-de-formation-master/)
-[[GitHub](https://github.com/pbastide/HMMA201)] [[Web Site](https://hmma201.netlify.app/)].
+* **Linear Regression**, *Master 1* *"Biostatistique"* and *"MIND"* at [Université de Montpellier](https://maths-fds.edu.umontpellier.fr/offres-de-formation-master/).  
+Material available on
+[GitHub](https://github.com/pbastide/HMMA201)
+and on the [Course Site](https://hmma201.netlify.app/).
 
-* **Data visualization**, *Engineering school*, program *"Développement informatique et exploitation Opérationnelle"* at [Polytech Montpellier](https://www.polytech.umontpellier.fr/formation/cycle-ingenieur/devops/enseignements-do)
-[[GitHub](https://github.com/pbastide/HMMA201)].
+* **Data visualization**, *Engineering school*, program *"Développement informatique et exploitation Opérationnelle"* at [Polytech Montpellier](https://www.polytech.umontpellier.fr/formation/cycle-ingenieur/devops/enseignements-do).  
+Material available on
+[GitHub](https://github.com/pbastide/HMMA201).
 
 # 2017 - 2018 - KU Leuven
 
