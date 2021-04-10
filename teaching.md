@@ -18,7 +18,6 @@ Material available on
 # 2017 - 2018 - KU Leuven
 
 * **Applied Biostatistics**, *Master level*, [Biomedical sciences](https://onderwijsaanbod.kuleuven.be//syllabi/e/E04N0AE.htm), exercise sessions.
-
 * **Introduction to Biostatistics**, *Bachelor level*, [Biomedical sciences](https://onderwijsaanbod.kuleuven.be/syllabi/n/E06C9BN.htm), exercise sessions.
 
 # 2014 - 2017 - Université Paris Sud
