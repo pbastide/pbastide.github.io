@@ -3,12 +3,10 @@ layout: page
 title: Publications
 weight: 3
 ---
-  
-# Preprints
-
-* **P. Bastide**, L.S.T. Ho, G. Baele, P. Lemey, M.A. Suchard (2020), Efficient Bayesian Inference of General Gaussian Models on Large Phylogenetic Trees. *arXiv*. [2003.10336](http://arxiv.org/abs/2003.10336)
 
 # 2021
+
+* **P. Bastide**, L.S.T. Ho, G. Baele, P. Lemey, M.A. Suchard (2021), Efficient Bayesian Inference of General Gaussian Models on Large Phylogenetic Trees. *Annals of Applied Statistics*, 15(2): 971-997. [doi:10.1214/20-AOAS1419](http://dx.doi.org/10.1214/20-AOAS1419) [arXiv:2003.10336](http://arxiv.org/abs/2003.10336)
 
 * Z. Zhang, A. Nishimura, **P. Bastide**, X. Ji, R.P. Payne, P. Goulder, P. Lemey, M.A. Suchard (2021), Large-scale inference of correlation among mixed-type biological traits with phylogenetic multivariate probit models. *Annals of Applied Statistics*, 15(1), 230-251.
 [doi:10.1214/20-AOAS1394](https://projecteuclid.org/journals/annals-of-applied-statistics/volume-15/issue-1/Large-scale-inference-of-correlation-among-mixed-type-biological-traits/10.1214/20-AOAS1394.short) [arxiv:1912.09185](http://arxiv.org/abs/1912.09185).
