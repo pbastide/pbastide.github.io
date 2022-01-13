@@ -4,16 +4,37 @@ title: Teaching
 weight: 4
 ---
   
-# 2020 - 2021 - Montpellier
+# Montpellier
 
-* **Linear Regression**, *Master 1* *"Biostatistique"* and *"MIND"* at [Université de Montpellier](https://maths-fds.edu.umontpellier.fr/offres-de-formation-master/).  
+* **Linear Regression**, *Master 1* *"Statistique et Science des Données"* at [Université de Montpellier](https://maths-fds.edu.umontpellier.fr/ssd/).  
 Material available on
-[GitHub](https://github.com/pbastide/HMMA201)
-and on the [Course Site](https://hmma201.netlify.app/).
+[GitHub](https://github.com/pbastide/HAX814X)
+and on the [Course Site](https://hax814x.netlify.app/).
 
 * **Data visualization**, *Engineering school*, program *"Développement informatique et exploitation Opérationnelle"* at [Polytech Montpellier](https://www.polytech.umontpellier.fr/formation/cycle-ingenieur/devops/enseignements-do).  
 Material available on
 [GitHub](https://github.com/pbastide/do3-dataviz).
+
+# 2021 - Montevideo
+
+* **Phylogenetics, Molecular Epidemiology and Phylodynamics**, [IFUM Research School](https://www.fing.edu.uy/index.php/es/node/45265).
+With 
+[Olivier Gascuel](https://isyeb.mnhn.fr/fr/annuaire/olivier-gascuel-7496),
+[Hugo Naya](http://pasteur.uy/en/institutional/heads-of-departments/hugo-naya/),
+[Miraine Davila Felipe](http://www.mirainedavila.com/),
+[Anna Zhukova](https://research.pasteur.fr/en/member/anna-zhukova/),
+[Martin Grana](https://www.researchgate.net/profile/Martin-Grana),
+[Hector Romero](https://scholar.google.com/citations?user=bDHFRZQAAAAJ&hl=en),
+[Enrique Lessa](http://evolucion.fcien.edu.uy/Enrique/Enrique_P_Lessa_web_2_CV_Jul_2015.htm),
+[Daiana Mir](https://orcid.org/0000-0002-3172-4867),
+[Gonzalo Moratorio](https://scholar.google.com.uy/citations?user=Hz8h3sAAAAAJ&hl=en) and
+[Gonzalo Bello](https://scholar.google.com.br/citations?user=WiiIJFkAAAAJ&hl=pt-BR).  
+**Slides** on continuous trait evolution (see also the [**Full Program**](https://research.pasteur.fr/fr/course/phylogenetics-molecular-epidemiology-and-phylodynamics/)):
+  * [Stochastic processes on trees: Brownian motion and beyond]({{site.baseurl}}/docs/202112_IFUMI_01_stochastic_process.pdf)
+  * [Phylogenetic regression and the heritability of viral load in HIV]({{site.baseurl}}/docs/202112_IFUMI_02_phylogenetic_regression.pdf)
+  * [Heterogeneous and multidimensional models of trait evolution]({{site.baseurl}}/docs/202112_IFUMI_03_multi_hetero_light.pdf)
+  * [Bayesian analysis of continuous traits]({{site.baseurl}}/docs/202112_IFUMI_04_bayesian_light.pdf)
+
 
 # 2017 - 2018 - KU Leuven
 
