@@ -4,6 +4,11 @@ title: Publications
 weight: 3
 ---
 
+# Preprint
+
+* **P. Bastide**, C. Soneson, O. Lespinet, M. Gallopin (2022), Benchmark of Differential Gene Expression Analysis Methods for Inter-species RNA-Seq Data using a Phylogenetic Simulation Framework. [[bioRxiv](https://doi.org/10.1101/2022.01.21.476612)]
+
+
 # 2021
 
 * S. Issaka, O. Traoré, R.D.S. Longué, A. Pinel-Galzi, M.S. Gill, S. Dellicour, **P. Bastide**, S. Guindon, E. Hébrard, M-J. Dugué, s. Yacouba, S. Semballa, S. Aké, P. Lemey, D. Fargette (2021),  Rivers and Landscape Ecology of a Plant Virus, *Rice Yellow Mottle Virus* Along the Niger Valley. *Virus Evolution*. [doi:10.1093/ve/veab072](https://doi.org/10.1093/ve/veab072).
@@ -45,6 +50,8 @@ A [small summary](https://www.scoop.it/t/life-sci-news-upsaclay?q=bastide) was p
 * `BEAST` (written in `java`, contributor) [[GitHub](https://github.com/beast-dev/beast-mcmc)]
 
 * `nosoi` (`R` package, contributor) [[CRAN](https://CRAN.R-project.org/package=nosoi)] [[GitHub](https://github.com/slequime/nosoi)]
+
+* `compcodeR` (`R` package, contributor) [[Bioconductor](https://www.doi.org/10.18129/B9.bioc.compcodeR)] [[GitHub](https://github.com/csoneson/compcodeR)]
 
 # PhD Thesis
 
