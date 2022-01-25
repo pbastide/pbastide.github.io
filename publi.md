@@ -11,7 +11,7 @@ weight: 3
 
 # 2021
 
-* S. Issaka, O. Traoré, R.D.S. Longué, A. Pinel-Galzi, M.S. Gill, S. Dellicour, **P. Bastide**, S. Guindon, E. Hébrard, M-J. Dugué, s. Yacouba, S. Semballa, S. Aké, P. Lemey, D. Fargette (2021),  Rivers and Landscape Ecology of a Plant Virus, *Rice Yellow Mottle Virus* Along the Niger Valley. *Virus Evolution*. [doi:10.1093/ve/veab072](https://doi.org/10.1093/ve/veab072).
+* S. Issaka, O. Traoré, R.D.S. Longué, A. Pinel-Galzi, M.S. Gill, S. Dellicour, **P. Bastide**, S. Guindon, E. Hébrard, M-J. Dugué, s. Yacouba, S. Semballa, S. Aké, P. Lemey, D. Fargette (2021),  Rivers and Landscape Ecology of a Plant Virus, *Rice Yellow Mottle Virus* Along the Niger Valley. *Virus Evolution*, 7(2), veab072,  [doi:10.1093/ve/veab072](https://doi.org/10.1093/ve/veab072).
 
 * **P. Bastide**, L.S.T. Ho, G. Baele, P. Lemey, M.A. Suchard (2021), Efficient Bayesian Inference of General Gaussian Models on Large Phylogenetic Trees. *Annals of Applied Statistics*, 15(2): 971-997. [doi:10.1214/20-AOAS1419](http://dx.doi.org/10.1214/20-AOAS1419) [[arXiv:2003.10336](http://arxiv.org/abs/2003.10336)]
 
