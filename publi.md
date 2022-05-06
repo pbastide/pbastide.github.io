@@ -76,6 +76,7 @@ A [small summary](https://www.scoop.it/t/life-sci-news-upsaclay?q=bastide) was p
 <!-- 
 * 03/06/2020 - [Journées Aléatoires Bordeaux Toulouse Montpellier](https://jal-bmt.sciencesconf.org/) - Montpellier.
 -->
+* 12/05/2022 - [Dalhousie Statistics Seminar](https://www.mathstat.dal.ca/~lho/seminar/) - Halifax, Canada (online).
 * 08/04/2022 - [Séminaire Mathématiques pour la biologie](https://www.math.univ-toulouse.fr/spip.php?article573&lang=fr) - Toulouse.
 * 22/03/2022 - Rencontres Statistiques de Rochebrune
 * 20/05/2021 - [Bio Hasard 2021](https://biohasard2020.sciencesconf.org/) - Grenoble (online).
