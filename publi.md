@@ -4,7 +4,7 @@ title: Publications
 weight: 3
 ---
 
-# Preprint
+# Preprints
 
 * B.S. Teo, J. Rose, **P. Bastide**, C. Ane (2022), Accounting for intraspecific variation in continuous trait evolution on a reticulate phylogeny. [[bioRxiv](https://doi.org/10.1101/2022.05.12.490814)]
 
