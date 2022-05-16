@@ -6,6 +6,8 @@ weight: 3
 
 # Preprint
 
+* B.S. Teo, J. Rose, **P. Bastide**, C. Ane (2022), Accounting for intraspecific variation in continuous trait evolution on a reticulate phylogeny. [[bioRxiv](https://doi.org/10.1101/2022.05.12.490814)]
+
 * **P. Bastide**, C. Soneson, O. Lespinet, M. Gallopin (2022), Benchmark of Differential Gene Expression Analysis Methods for Inter-species RNA-Seq Data using a Phylogenetic Simulation Framework. [[bioRxiv](https://doi.org/10.1101/2022.01.21.476612)]
 
 
