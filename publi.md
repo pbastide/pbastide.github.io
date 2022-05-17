@@ -82,7 +82,7 @@ A [small summary](https://www.scoop.it/t/life-sci-news-upsaclay?q=bastide) was p
 * 08/04/2022 - [Séminaire Mathématiques pour la biologie](https://www.math.univ-toulouse.fr/spip.php?article573&lang=fr) - Toulouse.
 * 22/03/2022 - Rencontres Statistiques de Rochebrune
 * 20/05/2021 - [Bio Hasard 2021](https://biohasard2020.sciencesconf.org/) - Grenoble (online).
-* 12/10/2020 - [Séminaire de Statistique de l'IMAG](https://imag.edu.umontpellier.fr/seminaires/seminaire-de-probabilites-et-statistiques/) - Montpellier.
+* 12/10/2020 - [Séminaire de Statistique de l'IMAG](https://imag.umontpellier.fr/?page_id=625&idsem=13) - Montpellier.
 * 25/02/2020 - [Séminaire de Statistique du LPSM](http://www.lpsm.paris/agenda/seminaires-gdt/seminaire-statistique/) - Paris Diderot.
 * 25/10/2019 - [Statistics Seminar](https://www.math.txstate.edu/seminars/statistics.html), Texas State University, Austin, Texas. [[Abstract]]({{site.baseurl}}/docs/20191025_TexasState_Abstract.pdf)
 * 25/04/2019 - [LMO Statistics Seminar](https://www.math.u-psud.fr/TBA-51330?lang=fr) - Orsay.

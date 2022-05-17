@@ -6,7 +6,7 @@ weight : 1
 
 <img style="float: right; margin: 0px 0px 0px 30px;" width="150" src="{{site.baseurl}}/docs/202008_photo.png"/>
 
-I am a CNRS junior researcher (CRCN) at the [Institut Montpelliérain Alexander Grothendieck](https://imag.edu.umontpellier.fr) (IMAG, Université de Montpellier), working in Statistics applied to Evolutionary Biology.
+I am a CNRS junior researcher (CRCN) at the [Institut Montpelliérain Alexander Grothendieck](https://imag.umontpellier.fr) (IMAG, Université de Montpellier), working in Statistics applied to Evolutionary Biology.
 
 Previously, I was a postdoctoral fellow in the Evolutionary and Computational Virology lab,
 working with [Philippe Lemey](https://rega.kuleuven.be/cev/ecv) at [KU Leuven](https://www.kuleuven.be/english/) and [Marc Suchard](https://msuchard.faculty.biomath.ucla.edu/) at [UCLA](http://www.ucla.edu/), with a funding from the [FWO](https://www.fwo.be/en/fellowships-funding/postdoctoral-fellowships/junior-postdoctoral-fellowship/) (Research Foundation - Flanders).  

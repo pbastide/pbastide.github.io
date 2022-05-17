@@ -6,7 +6,7 @@ weight: 5
 
 # Current Position
 
-* **2020 - present**: CNRS researcher (CRCN) at [IMAG](https://imag.edu.umontpellier.fr) (Université de Montpellier).
+* **2020 - present**: CNRS researcher (CRCN) at [IMAG](https://imag.umontpellier.fr) (Université de Montpellier).
 
 # Education and Previous Positions
 
