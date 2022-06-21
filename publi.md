@@ -61,6 +61,7 @@ A [small summary](https://www.scoop.it/t/life-sci-news-upsaclay?q=bastide) was p
 
 # Contributed Talks and Posters
 
+* 29/06/2022 - [MCEB 2022](https://mceb2022.sciencesconf.org/), Château d'Oex, Switzerland.
 * 24/10/2021 - [AMS Sectional Meeting](https://www.ams.org/meetings/sectional/2283_progfull.html#2283:SS23A), New Mexico (virtual). Invited contribution to the session: *Mathematics and Modeling of Phylogenetic Networks*.
 * 29/07/2019 - [JSM 2019](https://ww2.amstat.org/meetings/jsm/2019/index.cfm), Denver. [[Abstract]](https://ww2.amstat.org/meetings/jsm/2019/onlineprogram/AbstractDetails.cfm?abstractid=304526) [[Speed]]({{site.baseurl}}/docs/20190729_Speed_JSM.pdf) [[Poster]]({{site.baseurl}}/docs/20190730_Poster_JSM.pdf)
 * 05/06/2019 - [JdS 2019](http://jds2019.sfds.asso.fr), Nancy. [[Abstract]](https://toltex.imag.fr/users/RCqls/Workshop/jds2019/resumesLongs/subm25.pdf) [[Slides]]({{site.baseurl}}/docs/20190605_JdS.pdf)
