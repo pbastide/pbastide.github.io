@@ -55,6 +55,11 @@ A [small summary](https://www.scoop.it/t/life-sci-news-upsaclay?q=bastide) was p
 
 * `compcodeR` (`R` package, contributor) [[Bioconductor](https://www.doi.org/10.18129/B9.bioc.compcodeR)] [[GitHub](https://github.com/csoneson/compcodeR)]
 
+# Book Chapter
+
+* **P. Bastide**, M. Mariadassou, S. Robin (2022). *Modèles d’évolution de caractères continus.* In: Didier G., Guindon S., editors. Modèles et méthodes pour l’évolution biologique. [ISTE Editions.](https://www.istegroup.com/fr/produit/modeles-et-methodes-pour-levolution-biologique/)
+
+
 # PhD Thesis
 
 * *Shifted stochastic processes evolving on trees: application to models of adaptive evolution on phylogenies.* [[Manuscript](https://tel.archives-ouvertes.fr/tel-01629648)], [[Slides]({{site.baseurl}}/docs/20171019_soutenance.pdf)]
