@@ -57,7 +57,7 @@ A [small summary](https://www.scoop.it/t/life-sci-news-upsaclay?q=bastide) was p
 
 # Book Chapter
 
-* **P. Bastide**, M. Mariadassou, S. Robin (2022). *Modèles d’évolution de caractères continus.* In: Didier G., Guindon S., editors. Modèles et méthodes pour l’évolution biologique. [ISTE Editions.](https://www.istegroup.com/fr/produit/modeles-et-methodes-pour-levolution-biologique/)
+* **P. Bastide**, M. Mariadassou, S. Robin (2022). *Modèles d’évolution de caractères continus.* In: Didier G., Guindon S., editeurs. Modèles et méthodes pour l'évolution biologique. ISTE Editions. [doi:10.51926/iste.9069.ch3](https://dx.doi.org/10.51926/iste.9069.ch3)  [[hal-03762880](https://hal.archives-ouvertes.fr/hal-03762880)].
 
 
 # PhD Thesis
