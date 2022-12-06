@@ -84,7 +84,7 @@ A [small summary](https://www.scoop.it/t/life-sci-news-upsaclay?q=bastide) was p
 <!-- 
 * 03/06/2020 - [Journées Aléatoires Bordeaux Toulouse Montpellier](https://jal-bmt.sciencesconf.org/) - Montpellier.
 -->
-* 25/10/2022 - [Workshop StatOmique](https://statomique.netlify.app/2022/09/30/newrnaseq/) - Agro Paris-Saclay.
+* 25/10/2022 - [Workshop StatOmique](https://statomique.netlify.app/2022/10/25/newrnaseq/) - Agro Paris-Saclay.
 * 18/10/2022 - Séminaire du LMAC - Université de Technologie de Compiègne.
 * 12/05/2022 - [Dalhousie Statistics Seminar](https://www.mathstat.dal.ca/~lho/seminar/) - Halifax, Canada (online).
 * 08/04/2022 - [Séminaire Mathématiques pour la biologie](https://www.math.univ-toulouse.fr/spip.php?article573&lang=fr) - Toulouse.
