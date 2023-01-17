@@ -87,6 +87,7 @@ A [small summary](https://sco.lt/8P2PdB) was published by the Paris Saclay [Life
 <!-- 
 * 03/06/2020 - [Journées Aléatoires Bordeaux Toulouse Montpellier](https://jal-bmt.sciencesconf.org/) - Montpellier.
 -->
+* 16/01/2023 - [Séminaire de Statistiques du LMA](https://math.univ-avignon.fr/seminaires/seminaire-de-statistique/) - Avignon.
 * 25/10/2022 - [Workshop StatOmique](https://statomique.netlify.app/2022/10/25/newrnaseq/) - Agro Paris-Saclay.
 * 18/10/2022 - Séminaire du LMAC - Université de Technologie de Compiègne.
 * 12/05/2022 - [Dalhousie Statistics Seminar](https://www.mathstat.dal.ca/~lho/seminar/) - Halifax, Canada (online).
