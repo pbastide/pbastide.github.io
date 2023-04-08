@@ -6,6 +6,8 @@ weight: 3
 
 # Preprints
 
+* **P. Bastide**, G. Didier (2023), The Cauchy Process on Phylogenies: a Tractable Model for Pulsed Evolution. [[bioRxiv](https://doi.org/10.1101/2023.04.05.535685)]
+
 * B.S. Teo, J. Rose, **P. Bastide**, C. Ane (2022), Accounting for intraspecific variation in continuous trait evolution on a reticulate phylogeny. [[bioRxiv](https://doi.org/10.1101/2022.05.12.490814)]
 
 # 2022
