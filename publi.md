@@ -6,11 +6,15 @@ weight: 3
 
 # Preprints
 
+* **P. Bastide**, G. Didier (2023), The Cauchy Process on Phylogenies: a Tractable Model for Pulsed Evolution. [[bioRxiv](https://doi.org/10.1101/2023.04.05.535685)]
+
 * B.S. Teo, J. Rose, **P. Bastide**, C. Ane (2022), Accounting for intraspecific variation in continuous trait evolution on a reticulate phylogeny. [[bioRxiv](https://doi.org/10.1101/2022.05.12.490814)]
 
 # 2022
 
-* **P. Bastide**, C. Soneson, D.B. Stern, O. Lespinet, M. Gallopin (2022), A Phylogenetic Framework to Simulate Synthetic Inter-species RNA-Seq Data. *Molecular Biology and Evolution*, in press. [doi:10.1093/molbev/msac269](https://doi.org/10.1093/molbev/msac269) [[bioRxiv](https://doi.org/10.1101/2022.01.21.476612)]
+* **P. Bastide**, C. Soneson, D.B. Stern, O. Lespinet, M. Gallopin (2022), A Phylogenetic Framework to Simulate Synthetic Inter-species RNA-Seq Data. *Molecular Biology and Evolution*, in press.
+[doi:10.1093/molbev/msac269](https://doi.org/10.1093/molbev/msac269) [[bioRxiv](https://doi.org/10.1101/2022.01.21.476612)]
+[[Brève Paris Saclay](https://sco.lt/7BhZmS) (in French)].
 
 # 2021
 
@@ -34,7 +38,7 @@ weight: 3
 * L. Aristide , **P. Bastide** , S. F. dos Reis, T. M. Pires dos Santos, R. T. Lopes, S. I. Perez (2018), Multiple factors behind early diversification of skull morphology in the continental radiation of New World monkeys. *Evolution*, 72(12), 2697–2711. [doi:10.1111/evo.13609](https://onlinelibrary.wiley.com/doi/abs/10.1111/evo.13609)
 
 * **P. Bastide**, C. Solís-Lemus, R. Kriebel, K.W. Sparks, C. Ané (2018): Phylogenetic Comparative Methods for Phylogenetic Networks with Reticulations. *Systematic Biology*, 67(5), 800–820. [doi:10.1093/sysbio/syy033](https://academic.oup.com/sysbio/advance-article/doi/10.1093/sysbio/syy033/4985806?guestAccessKey=507189f8-9ff2-4e12-b17e-29c2a1b2e7ec) [[bioRxiv](https://doi.org/10.1101/194050)]    
-A [small summary](https://www.scoop.it/t/life-sci-news-upsaclay?q=bastide) was published by the Paris Saclay [Life Sciences](https://www.universite-paris-saclay.fr/en/research/department/life-sciences) department (with a picture featuring colorful smileys, in French).
+A [small summary](https://sco.lt/8P2PdB) was published by the Paris Saclay [Life Sciences](https://www.universite-paris-saclay.fr/en/research/department/life-sciences) department (with a picture featuring colorful smileys, in French).
 
 * **P. Bastide**, C. Ané, S. Robin, M. Mariadassou (2018): Inference of Adaptive Shifts for Multivariate Correlated Traits. *Systematic Biology*, 67(4), 662–680. [doi:10.1093/sysbio/syy005](https://academic.oup.com/sysbio/advance-article/doi/10.1093/sysbio/syy005/4827615?guestAccessKey=fba26a20-0579-4721-ad76-8e669489539a) [[bioRxiv](http://www.biorxiv.org/content/early/2017/06/05/146191)]
 
@@ -85,6 +89,7 @@ A [small summary](https://www.scoop.it/t/life-sci-news-upsaclay?q=bastide) was p
 <!-- 
 * 03/06/2020 - [Journées Aléatoires Bordeaux Toulouse Montpellier](https://jal-bmt.sciencesconf.org/) - Montpellier.
 -->
+* 16/01/2023 - [Séminaire de Statistiques du LMA](https://math.univ-avignon.fr/seminaires/seminaire-de-statistique/) - Avignon.
 * 25/10/2022 - [Workshop StatOmique](https://statomique.netlify.app/2022/10/25/newrnaseq/) - Agro Paris-Saclay.
 * 18/10/2022 - Séminaire du LMAC - Université de Technologie de Compiègne.
 * 12/05/2022 - [Dalhousie Statistics Seminar](https://www.mathstat.dal.ca/~lho/seminar/) - Halifax, Canada (online).
