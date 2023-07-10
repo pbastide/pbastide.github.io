@@ -71,6 +71,7 @@ A [small summary](https://sco.lt/8P2PdB) was published by the Paris Saclay [Life
 
 # Contributed Talks and Posters
 
+* 13/06/2023 - [MCEB 2023](https://mceb2023.sciencesconf.org/), Cargèse, Corsica.
 * 29/06/2022 - [MCEB 2022](https://mceb2022.sciencesconf.org/), Château d'Oex, Switzerland.
 * 24/10/2021 - [AMS Sectional Meeting](https://www.ams.org/meetings/sectional/2283_progfull.html#2283:SS23A), New Mexico (virtual). Invited contribution to the session: *Mathematics and Modeling of Phylogenetic Networks*.
 * 29/07/2019 - [JSM 2019](https://ww2.amstat.org/meetings/jsm/2019/index.cfm), Denver. [[Abstract]](https://ww2.amstat.org/meetings/jsm/2019/onlineprogram/AbstractDetails.cfm?abstractid=304526) [[Speed]]({{site.baseurl}}/docs/20190729_Speed_JSM.pdf) [[Poster]]({{site.baseurl}}/docs/20190730_Poster_JSM.pdf)
@@ -89,6 +90,7 @@ A [small summary](https://sco.lt/8P2PdB) was published by the Paris Saclay [Life
 <!-- 
 * 03/06/2020 - [Journées Aléatoires Bordeaux Toulouse Montpellier](https://jal-bmt.sciencesconf.org/) - Montpellier.
 -->
+* 04/07/2023 - [GDR Phylodynamique](https://phylodynamique.sciencesconf.org/) - Lyon.
 * 16/01/2023 - [Séminaire de Statistiques du LMA](https://math.univ-avignon.fr/seminaires/seminaire-de-statistique/) - Avignon.
 * 25/10/2022 - [Workshop StatOmique](https://statomique.netlify.app/2022/10/25/newrnaseq/) - Agro Paris-Saclay.
 * 18/10/2022 - Séminaire du LMAC - Université de Technologie de Compiègne.
