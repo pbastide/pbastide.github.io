@@ -6,13 +6,15 @@ weight: 3
 
 # Preprints
 
-* **P. Bastide**, G. Didier (2023), The Cauchy Process on Phylogenies: a Tractable Model for Pulsed Evolution. [[bioRxiv](https://doi.org/10.1101/2023.04.05.535685)]
-
 * B.S. Teo, J. Rose, **P. Bastide**, C. Ane (2022), Accounting for intraspecific variation in continuous trait evolution on a reticulate phylogeny. [[bioRxiv](https://doi.org/10.1101/2022.05.12.490814)]
 
-# 2022
+# 2023
 
-* **P. Bastide**, C. Soneson, D.B. Stern, O. Lespinet, M. Gallopin (2022), A Phylogenetic Framework to Simulate Synthetic Inter-species RNA-Seq Data. *Molecular Biology and Evolution*, in press.
+* **P. Bastide**, G. Didier (2023), The Cauchy Process on Phylogenies: a Tractable Model for Pulsed Evolution. *Systematic Biology*, in press.
+[doi:10.1093/sysbio/syad053](https://doi.org/10.1093/sysbio/syad053)
+[[bioRxiv](https://doi.org/10.1101/2023.04.05.535685)]
+
+* **P. Bastide**, C. Soneson, D.B. Stern, O. Lespinet, M. Gallopin (2023), A Phylogenetic Framework to Simulate Synthetic Inter-species RNA-Seq Data. *Molecular Biology and Evolution*, 40(1), msac269.
 [doi:10.1093/molbev/msac269](https://doi.org/10.1093/molbev/msac269) [[bioRxiv](https://doi.org/10.1101/2022.01.21.476612)]
 [[Brève Paris Saclay](https://sco.lt/7BhZmS) (in French)].
 
