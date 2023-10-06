@@ -62,6 +62,8 @@ A [small summary](https://sco.lt/8P2PdB) was published by the Paris Saclay [Life
 
 * `compcodeR` (`R` package, contributor) [[Bioconductor](https://www.doi.org/10.18129/B9.bioc.compcodeR)] [[GitHub](https://github.com/csoneson/compcodeR)]
 
+* `cauphy` (`R` package, joint author) [[CRAN](https://CRAN.R-project.org/package=cauphy)] [[GitHub](https://github.com/gilles-didier/cauphy/)]
+
 # Book Chapter
 
 * **P. Bastide**, M. Mariadassou, S. Robin (2022). *Modèles d’évolution de caractères continus.* In: Didier G., Guindon S., editeurs. Modèles et méthodes pour l'évolution biologique. ISTE Editions. [doi:10.51926/iste.9069.ch3](https://dx.doi.org/10.51926/iste.9069.ch3)  [[hal-03762880](https://hal.archives-ouvertes.fr/hal-03762880)].
