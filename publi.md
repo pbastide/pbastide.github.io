@@ -16,7 +16,7 @@ weight: 3
 [doi:10.1093/molbev/msac269](https://doi.org/10.1093/molbev/msac269) [[bioRxiv](https://doi.org/10.1101/2022.01.21.476612)]
 [[Brève Paris Saclay](https://sco.lt/7BhZmS) (in French)].
 
-* B.S. Teo, J. Rose, **P. Bastide**, C. Ane (in press), Accounting for intraspecific variation in continuous trait evolution on a reticulate phylogeny. *Bulletin of the Society of Systematic Biologists*. doi:10.18061/bssb.v1i8.8977. [[bioRxiv](https://doi.org/10.1101/2022.05.12.490814)]
+* B.S. Teo, J. Rose, **P. Bastide**, C. Ane (2023), Accounting for intraspecific variation in continuous trait evolution on a reticulate phylogeny. *Bulletin of the Society of Systematic Biologists*. [doi:10.18061/bssb.v2i3.8977](https://doi.org/10.18061/bssb.v2i3.8977). [[bioRxiv](https://doi.org/10.1101/2022.05.12.490814)]
 
 # 2021
 
