@@ -4,6 +4,11 @@ title: Publications
 weight: 3
 ---
 
+# 2024
+
+* F. Chevenet, D. Fargette, **P. Bastide**, T. Vitré, S. Guindon, (2024), EvoLaps 2: Advanced phylogeographic visualization. *Virus Evolution*, 10(1), vead078.
+[doi:10.1093/ve/vead078](https://doi.org/10.1093/ve/vead078)
+
 # 2023
 
 * **P. Bastide**, G. Didier (2023), The Cauchy Process on Phylogenies: a Tractable Model for Pulsed Evolution. *Systematic Biology*, in press.
@@ -94,6 +99,8 @@ A [small summary](https://sco.lt/8P2PdB) was published by the Paris Saclay [Life
 <!-- 
 * 03/06/2020 - [Journées Aléatoires Bordeaux Toulouse Montpellier](https://jal-bmt.sciencesconf.org/) - Montpellier.
 -->
+* 07/12/2024 - [Conférences de la Maison Française](https://www.uwfrenchhouse.org/event-details-registration/conferences-de-la-maison-francaise-paul-bastide-2023-12-07-16-00) - Madison French House.
+* 04/12/2023 - [UW Student Statistics Seminar](https://sgsa.stat.wisc.edu/#/seminar) - University of Wisconsin - Madison.
 * 04/07/2023 - [GDR Phylodynamique](https://phylodynamique.sciencesconf.org/) - Lyon.
 * 16/01/2023 - [Séminaire de Statistiques du LMA](https://math.univ-avignon.fr/seminaires/seminaire-de-statistique/) - Avignon.
 * 25/10/2022 - [Workshop StatOmique](https://statomique.netlify.app/2022/10/25/newrnaseq/) - Agro Paris-Saclay.

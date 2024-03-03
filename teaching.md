@@ -15,15 +15,14 @@ and on the [Course Site](https://hax814x.netlify.app/).
 Material available on
 [GitHub](https://github.com/pbastide/do3-dataviz).
 
-# 2022 - EvoGEM
+# EvoGEM
 
 * **Phylogenetic Comparative Methods** : intervention (3h) in the Master 2 [EvoGEM](https://evogem.fr/en/accueil-english/) (Evolution of Genomes, Populations and Species: Data and Models), 
 with [Julien Clavel](https://umr5023.univ-lyon1.fr/annuaire/details/1/295-clavel-julien),
 in the course supervised by
-[Guillaume Achaz](https://smile.cnrs.fr/people.php?titre=Guillaume-Achaz), 
-[Olivier Gascuel](https://isyeb.mnhn.fr/fr/annuaire/olivier-gascuel-7496) and
+[Guillaume Achaz](https://smile.cnrs.fr/people.php?titre=Guillaume-Achaz) and
 [Nicolas Puillandre](https://isyeb.mnhn.fr/fr/annuaire/nicolas-puillandre-2617).
-  * [Slides]({{site.baseurl}}/docs/20222107_evogem.pdf)
+  * [Slides (2022)]({{site.baseurl}}/docs/20222107_evogem.pdf)
 
 # 2021 - Montevideo
 
