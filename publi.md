@@ -11,11 +11,11 @@ weight: 3
 
 # 2023
 
-* **P. Bastide**, G. Didier (2023), The Cauchy Process on Phylogenies: a Tractable Model for Pulsed Evolution. *Systematic Biology*, in press.
+* **P. Bastide**, G. Didier (2023), The Cauchy Process on Phylogenies: a Tractable Model for Pulsed Evolution. *Systematic Biology*, 72(6), 1296–1315.
 [doi:10.1093/sysbio/syad053](https://doi.org/10.1093/sysbio/syad053)
 [[bioRxiv](https://doi.org/10.1101/2023.04.05.535685)]
 
-* R. Kriebel, J.P. Rose, **P. Bastide**, D. Jolles, M. Reginato, and K.J. Sytsma (2023), The evolution of Ericaceae flowers and their pollination syndromes at a global scale. *American Journal of Botany* e16220. [doi:10.1002/ajb2.16220](https://doi.org/10.1002/ajb2.16220)
+* R. Kriebel, J.P. Rose, **P. Bastide**, D. Jolles, M. Reginato, and K.J. Sytsma (2023), The evolution of Ericaceae flowers and their pollination syndromes at a global scale. *American Journal of Botany*, 110(9), e16220. [doi:10.1002/ajb2.16220](https://doi.org/10.1002/ajb2.16220)
 
 * **P. Bastide**, C. Soneson, D.B. Stern, O. Lespinet, M. Gallopin (2023), A Phylogenetic Framework to Simulate Synthetic Inter-species RNA-Seq Data. *Molecular Biology and Evolution*, 40(1), msac269.
 [doi:10.1093/molbev/msac269](https://doi.org/10.1093/molbev/msac269) [[bioRxiv](https://doi.org/10.1101/2022.01.21.476612)]
