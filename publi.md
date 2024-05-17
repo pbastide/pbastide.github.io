@@ -3,6 +3,15 @@ layout: page
 title: Publications
 weight: 3
 ---
+https://github.com/jthlab/jthlab.github.io
+
+# Preprints
+
+* B. Teo, **P. Bastide**, C. Ané (2024+), Leveraging graphical model techniques to study evolution on phylogenetic networks. *arXiv*, 
+[doi:10.48550/arXiv.2405.09327](https://doi.org/10.48550/arXiv.2405.09327)
+
+* S. Dellicour, **P. Bastide**, P. Rocu, D. Fargette, O.J. Hardy, M.A. Suchard, S. Guindon, P. Lemey (2024+), How fast are viruses spreading in the wild? *bioRxiv*,
+[doi:10.1101/2024.04.10.588821](https://doi.org/10.1101/2024.04.10.588821)
 
 # 2024
 
@@ -96,9 +105,6 @@ A [small summary](https://sco.lt/8P2PdB) was published by the Paris Saclay [Life
 
 # Seminars and Workshops
 
-<!-- 
-* 03/06/2020 - [Journées Aléatoires Bordeaux Toulouse Montpellier](https://jal-bmt.sciencesconf.org/) - Montpellier.
--->
 * 07/12/2024 - [Conférences de la Maison Française](https://www.uwfrenchhouse.org/event-details-registration/conferences-de-la-maison-francaise-paul-bastide-2023-12-07-16-00) - Madison French House.
 * 04/12/2023 - [UW Student Statistics Seminar](https://sgsa.stat.wisc.edu/#/seminar) - University of Wisconsin - Madison.
 * 04/07/2023 - [GDR Phylodynamique](https://phylodynamique.sciencesconf.org/) - Lyon.
