@@ -3,7 +3,6 @@ layout: page
 title: Publications
 weight: 3
 ---
-https://github.com/jthlab/jthlab.github.io
 
 # Preprints
 
