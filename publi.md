@@ -104,6 +104,8 @@ A [small summary](https://sco.lt/8P2PdB) was published by the Paris Saclay [Life
 
 # Seminars and Workshops
 
+* 30/05/2024 - [GDR Phylodynamique](https://phylodyn2024.sciencesconf.org/) - Montpellier.
+* 25/03/2024 - Rencontres Statistiques de Rochebrune.
 * 07/12/2024 - [Conférences de la Maison Française](https://www.uwfrenchhouse.org/event-details-registration/conferences-de-la-maison-francaise-paul-bastide-2023-12-07-16-00) - Madison French House.
 * 04/12/2023 - [UW Student Statistics Seminar](https://sgsa.stat.wisc.edu/#/seminar) - University of Wisconsin - Madison.
 * 04/07/2023 - [GDR Phylodynamique](https://phylodynamique.sciencesconf.org/) - Lyon.
