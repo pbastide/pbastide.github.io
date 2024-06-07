@@ -7,6 +7,11 @@ weight: 3
 
 # Preprints
 
+* **P. Bastide**, P. Rocu, J. Wirtz, G.W. Hassler, F. Chevenet, D. Fargette, M.A. Suchard, S. Dellicour, P. Lemey, S. Guindon (2024+), 
+Modeling the velocity of evolving lineages and predicting dispersal patterns
+*bioRxiv*,
+[doi:10.1101/2024.06.06.597755 ](https://doi.org/10.1101/2024.06.06.597755 )
+
 * B. Teo, **P. Bastide**, C. Ané (2024+), Leveraging graphical model techniques to study evolution on phylogenetic networks. *arXiv*, 
 [doi:10.48550/arXiv.2405.09327](https://doi.org/10.48550/arXiv.2405.09327)
 
