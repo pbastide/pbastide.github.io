@@ -6,9 +6,11 @@ weight: 5
 
 # Current Position
 
-* **2019 - present**: CNRS researcher (CRCN) at [IMAG](https://imag.umontpellier.fr) (Université de Montpellier).
+* **2024 - present**: CNRS researcher (CRCN) at [MAP5](https://map5.mi.parisdescartes.fr/) (Université Paris Cité).
 
 # Education and Previous Positions
+
+* **2019 - 2024**: CNRS researcher (CRCN) at [IMAG](https://imag.umontpellier.fr) (Université de Montpellier).
 
 * **2017 - 2019**: Postdoctoral researcher at KU Leuven, Evolutionary and Computational Virology lab  
 Supervised by [Philippe Lemey](https://rega.kuleuven.be/cev/ecv) (KU Leuven) and [Marc Suchard](https://suchard-group.github.io/) (UCLA).
