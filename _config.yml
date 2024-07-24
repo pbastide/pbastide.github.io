@@ -1,6 +1,6 @@
 # Site settings
 title: Paul Bastide
-email: paul.bastide[at]umontpellier.fr
+email: paul.bastide[at]u-paris.fr
 description: > # this means to ignore newlines until "baseurl:"
   Researcher in statistics
 baseurl: '' # /pbastide.github.io # the subpath of your site, e.g. /blog/
