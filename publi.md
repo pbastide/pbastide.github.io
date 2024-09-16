@@ -7,10 +7,15 @@ weight: 3
 
 # Preprints
 
+* I. Ndikumana, G. Onaga, A. Pinel-Galzi, P. Rocu, J. Hubert, H. Karakacha Wéré, A. Adego, M. Nyongesa Wéré, N. Poulicard, M. Hebrard, S. Dellicour, P. Lemey, E. Gilbert, M-J. Dugué, F. Chevenet, **P. Bastide**, S. Guindon, D. Fargette, E. Hébrard (2024+), 
+Grains, trade and war in the multimodal transmission of Rice yellow mottle virus: an historical and phylogeographical retrospective
+*bioRxiv*,
+[doi:10.1101/2024.08.20.608750](https://doi.org/10.1101/2024.08.20.608750)
+
 * **P. Bastide**, P. Rocu, J. Wirtz, G.W. Hassler, F. Chevenet, D. Fargette, M.A. Suchard, S. Dellicour, P. Lemey, S. Guindon (2024+), 
 Modeling the velocity of evolving lineages and predicting dispersal patterns
 *bioRxiv*,
-[doi:10.1101/2024.06.06.597755 ](https://doi.org/10.1101/2024.06.06.597755 )
+[doi:10.1101/2024.06.06.597755](https://doi.org/10.1101/2024.06.06.597755)
 
 * B. Teo, **P. Bastide**, C. Ané (2024+), Leveraging graphical model techniques to study evolution on phylogenetic networks. *arXiv*, 
 [doi:10.48550/arXiv.2405.09327](https://doi.org/10.48550/arXiv.2405.09327)
@@ -94,6 +99,7 @@ A [small summary](https://sco.lt/8P2PdB) was published by the Paris Saclay [Life
 
 # Contributed Talks and Posters
 
+* 29/08/2024 - [Journées MAS 2024](https://mas2024.sciencesconf.org/), Poitier, France. Contribution invitée à la session [*Systèmes de particules*](https://mas2024.sciencesconf.org/data/pages/Session9.pdf), organisée par [Loren Coquille](https://www-fourier.ujf-grenoble.fr/~coquilll/).
 * 13/06/2023 - [MCEB 2023](https://mceb2023.sciencesconf.org/), Cargèse, Corsica.
 * 29/06/2022 - [MCEB 2022](https://mceb2022.sciencesconf.org/), Château d'Oex, Switzerland.
 * 24/10/2021 - [AMS Sectional Meeting](https://www.ams.org/meetings/sectional/2283_progfull.html#2283:SS23A), New Mexico (virtual). Invited contribution to the session: *Mathematics and Modeling of Phylogenetic Networks*.
