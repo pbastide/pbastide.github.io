@@ -27,14 +27,14 @@ and [Mahendra Mariadasou](https://mahendra-mariadassou.github.io/) ([MaIAGE](htt
 
 # Awards and Fellowhips
 
-* **2019**: [FWO long stay abroad grant](https://www.fwo.be/en/fellowships-funding/international-mobility/outgoing-mobility/grant-for-a-long-stay-abroad/) to visit [Marc Suchard](https://msuchard.faculty.biomath.ucla.edu/) at [UCLA](http://www.ucla.edu/) in the fall.
+* **2019**: [FWO long stay abroad grant](https://www.fwo.be/en/support-programmes/all-calls/mobility/grant-for-a-long-stay-abroad/) to visit [Marc Suchard](https://suchard-group.github.io/) at [UCLA](http://www.ucla.edu/) in the fall.
 
 * **2018**: Three years postdoctoral fellowship from the [FWO](https://www.fwo.be/en/fellowships-funding/postdoctoral-fellowships/junior-postdoctoral-fellowship/) (Research Foundation - Flanders).
 
 * **2018**: French Statistical Society PhD Award in Applied Statistics.
 ([Prix Marie-Jeanne Laurent-Duhamel](https://www.sfds.asso.fr/fr/prix_et_bourses/544-le_prix_marie_jeanne_laurent_duhamel/), awarded once every three years).
 
-* **2015**: Fulbright fellowship to visit [Cécile Ané](http://www.stat.wisc.edu/~ane/) and the [Sytsma Lab](http://www.botany.wisc.edu/sytsma/SytsmaLab/Welcome.html) at the [University of Wisconsin - Madison](http://www.wisc.edu/) during my PhD.
+* **2015**: [Fulbright fellowship](https://fulbright-france.org/fr/bourses/doctorantes-doctorants) to visit [Cécile Ané](http://www.stat.wisc.edu/~ane/) and the [Sytsma Lab](http://www.botany.wisc.edu/sytsma/SytsmaLab/Welcome.html) at the [University of Wisconsin - Madison](http://www.wisc.edu/) during my PhD.
 
 # Full CV
 
