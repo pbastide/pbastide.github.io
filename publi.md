@@ -12,11 +12,6 @@ Grains, trade and war in the multimodal transmission of Rice yellow mottle virus
 *bioRxiv*,
 [doi:10.1101/2024.08.20.608750](https://doi.org/10.1101/2024.08.20.608750)
 
-* **P. Bastide**, P. Rocu, J. Wirtz, G.W. Hassler, F. Chevenet, D. Fargette, M.A. Suchard, S. Dellicour, P. Lemey, S. Guindon (2024+), 
-Modeling the velocity of evolving lineages and predicting dispersal patterns
-*bioRxiv*,
-[doi:10.1101/2024.06.06.597755](https://doi.org/10.1101/2024.06.06.597755)
-
 * B. Teo, **P. Bastide**, C. Ané (2024+), Leveraging graphical model techniques to study evolution on phylogenetic networks. *arXiv*, 
 [doi:10.48550/arXiv.2405.09327](https://doi.org/10.48550/arXiv.2405.09327)
 
@@ -24,6 +19,13 @@ Modeling the velocity of evolving lineages and predicting dispersal patterns
 [doi:10.1101/2024.04.10.588821](https://doi.org/10.1101/2024.04.10.588821)
 
 # 2024
+
+* **P. Bastide**, P. Rocu, J. Wirtz, G.W. Hassler, F. Chevenet, D. Fargette, M.A. Suchard, S. Dellicour, P. Lemey, S. Guindon (2024+), 
+Modeling the velocity of evolving lineages and predicting dispersal patterns
+*Proceedings of the National Academy of Sciences USA*,
+[doi:10.1073/pnas.2411582121](https://doi.org/10.1073/pnas.2411582121)
+[[bioRxiv](https://doi.org/10.1101/2024.06.06.597755)]
+[[GitHub]](https://github.com/pbastide/integrated_phylogenetic_models)
 
 * F. Chevenet, D. Fargette, **P. Bastide**, T. Vitré, S. Guindon, (2024), EvoLaps 2: Advanced phylogeographic visualization. *Virus Evolution*, 10(1), vead078.
 [doi:10.1093/ve/vead078](https://doi.org/10.1093/ve/vead078)
