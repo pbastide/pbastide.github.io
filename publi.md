@@ -118,6 +118,7 @@ A [small summary](https://sco.lt/8P2PdB) was published by the Paris Saclay [Life
 
 # Seminars and Workshops
 
+* 20/11/2024 - Workshop de lancement de l'ANR IdenTHiC - Montpellier.
 * 30/05/2024 - [GDR Phylodynamique](https://phylodyn2024.sciencesconf.org/) - Montpellier.
 * 25/03/2024 - Rencontres Statistiques de Rochebrune.
 * 07/12/2024 - [Conférences de la Maison Française](https://www.uwfrenchhouse.org/event-details-registration/conferences-de-la-maison-francaise-paul-bastide-2023-12-07-16-00) - Madison French House. [[Slides]]({{site.baseurl}}/docs/20231207_French.html)
