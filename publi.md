@@ -20,9 +20,9 @@ Grains, trade and war in the multimodal transmission of Rice yellow mottle virus
 
 # 2024
 
-* **P. Bastide**, P. Rocu, J. Wirtz, G.W. Hassler, F. Chevenet, D. Fargette, M.A. Suchard, S. Dellicour, P. Lemey, S. Guindon (2024+), 
+* **P. Bastide**, P. Rocu, J. Wirtz, G.W. Hassler, F. Chevenet, D. Fargette, M.A. Suchard, S. Dellicour, P. Lemey, S. Guindon (2024), 
 Modeling the velocity of evolving lineages and predicting dispersal patterns
-*Proceedings of the National Academy of Sciences USA*,
+*Proceedings of the National Academy of Sciences U.S.A.*, 121 (47) e2411582121,
 [doi:10.1073/pnas.2411582121](https://doi.org/10.1073/pnas.2411582121)
 [[bioRxiv](https://doi.org/10.1101/2024.06.06.597755)]
 [[GitHub]](https://github.com/pbastide/integrated_phylogenetic_models)
