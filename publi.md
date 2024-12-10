@@ -1,9 +1,23 @@
 ---
 layout: page
-title: Publications
+title: Research
 weight: 3
 ---
 <!-- https://github.com/jthlab/jthlab.github.io -->
+
+# Software
+
+* `PhylogeneticEM` (`R` package, main author) [[CRAN](https://CRAN.R-project.org/package=PhylogeneticEM)] [[GitHub](https://github.com/pbastide/PhylogeneticEM)]
+
+* `PhyloNetworks` (`Julia` package, contributor) [[GitHub](https://github.com/crsl4/PhyloNetworks.jl)]
+
+* `BEAST` (written in `java`, contributor) [[GitHub](https://github.com/beast-dev/beast-mcmc)]
+
+* `nosoi` (`R` package, contributor) [[CRAN](https://CRAN.R-project.org/package=nosoi)] [[GitHub](https://github.com/slequime/nosoi)]
+
+* `compcodeR` (`R` package, contributor) [[Bioconductor](https://www.doi.org/10.18129/B9.bioc.compcodeR)] [[GitHub](https://github.com/csoneson/compcodeR)]
+
+* `cauphy` (`R` package, joint author) [[CRAN](https://CRAN.R-project.org/package=cauphy)] [[GitHub](https://github.com/gilles-didier/cauphy/)]
 
 # Preprints
 
@@ -78,19 +92,6 @@ A [small summary](https://sco.lt/8P2PdB) was published by the Paris Saclay [Life
 
 * **P. Bastide**, M. Mariadassou, S. Robin (2017). Detection of adaptive shifts on phylogenies by using shifted stochastic processes on a tree. *Journal of the Royal Statistical Society: Series B (Statistical Methodology)*, 79(4), 1067–1093. [doi:10.1111/rssb.12206](https://doi.org/10.1111/rssb.12206) [[arXiv](http://arxiv.org/abs/1508.00225), [bioRxiv](http://www.biorxiv.org/content/early/2016/07/13/023804)]
 
-# Softwares
-
-* `PhylogeneticEM` (`R` package, main author) [[CRAN](https://CRAN.R-project.org/package=PhylogeneticEM)] [[GitHub](https://github.com/pbastide/PhylogeneticEM)]
-
-* `PhyloNetworks` (`Julia` package, contributor) [[GitHub](https://github.com/crsl4/PhyloNetworks.jl)]
-
-* `BEAST` (written in `java`, contributor) [[GitHub](https://github.com/beast-dev/beast-mcmc)]
-
-* `nosoi` (`R` package, contributor) [[CRAN](https://CRAN.R-project.org/package=nosoi)] [[GitHub](https://github.com/slequime/nosoi)]
-
-* `compcodeR` (`R` package, contributor) [[Bioconductor](https://www.doi.org/10.18129/B9.bioc.compcodeR)] [[GitHub](https://github.com/csoneson/compcodeR)]
-
-* `cauphy` (`R` package, joint author) [[CRAN](https://CRAN.R-project.org/package=cauphy)] [[GitHub](https://github.com/gilles-didier/cauphy/)]
 
 # Book Chapter
 
