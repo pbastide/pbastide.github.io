@@ -3,8 +3,19 @@ layout: page
 title: Teaching
 weight: 4
 ---
-  
-# Montpellier
+
+# 2022 - Present - EvoGEM
+
+* **Phylogenetic Comparative Methods** : intervention in the Master 2 [EvoGEM](https://evogem.fr/en/accueil-english/) (Evolution of Genomes, Populations and Species: Data and Models), 
+with [Julien Clavel](https://umr5023.univ-lyon1.fr/annuaire/details/1/295-clavel-julien) (3h)
+and [Mahendra Mariadassou](https://mahendra-mariadassou.github.io/index.html) (12h),
+in the course supervised by
+[Paul Zaharias](https://isyeb.mnhn.fr/fr/annuaire/paul-zaharias-2682), [Guillaume Achaz](https://smile.cnrs.fr/people.php?titre=Guillaume-Achaz) and
+[Nicolas Puillandre](https://isyeb.mnhn.fr/fr/annuaire/nicolas-puillandre-2617).
+  * [Slides with J. Clavel (2022)]({{site.baseurl}}/docs/20222107_evogem.pdf)
+  * [Slides with M. Mariadassou (2024)](https://mahendra-mariadassou.pages.mia.inra.fr/evogem-2024/)
+
+# 2021 - 2024 - Montpellier
 
 * **Linear Regression**, *Master 1* *"Statistique et Science des Données"* at [Université de Montpellier](https://maths-fds.edu.umontpellier.fr/ssd/).  
 Material available on
@@ -14,15 +25,6 @@ and on the [Course Site](https://hax814x.netlify.app/).
 * **Data visualization**, *Engineering school*, program *"Développement informatique et exploitation Opérationnelle"* at [Polytech Montpellier](https://www.polytech.umontpellier.fr/formation/cycle-ingenieur/devops/enseignements-do).  
 Material available on
 [GitHub](https://github.com/pbastide/do3-dataviz).
-
-# EvoGEM
-
-* **Phylogenetic Comparative Methods** : intervention (3h) in the Master 2 [EvoGEM](https://evogem.fr/en/accueil-english/) (Evolution of Genomes, Populations and Species: Data and Models), 
-with [Julien Clavel](https://umr5023.univ-lyon1.fr/annuaire/details/1/295-clavel-julien),
-in the course supervised by
-[Guillaume Achaz](https://smile.cnrs.fr/people.php?titre=Guillaume-Achaz) and
-[Nicolas Puillandre](https://isyeb.mnhn.fr/fr/annuaire/nicolas-puillandre-2617).
-  * [Slides (2022)]({{site.baseurl}}/docs/20222107_evogem.pdf)
 
 # 2021 - Montevideo
 
