@@ -121,7 +121,10 @@ A [small summary](https://sco.lt/8P2PdB) was published by the Paris Saclay [Life
 
 # Seminars and Workshops
 
+* 29/01/2025 - [Rencontres de la chaire Modélisation Mathématique et Biodiversité (MMB)](http://www.cmap.polytechnique.fr/chaire-mmb/meeting29012025.html) - Paris.
+* 24/01/2025 - [All About that... Semniar Series](https://sites.google.com/view/all-about-that-bayes/#h.okg5lblk6lnm) - Paris.
 * 20/11/2024 - Workshop de lancement de l'ANR IdenTHiC - Montpellier.
+* 11/19/2024 - Séminaire de rentrée du MAP5 - Paris.
 * 30/05/2024 - [GDR Phylodynamique](https://phylodyn2024.sciencesconf.org/) - Montpellier.
 * 25/03/2024 - Rencontres Statistiques de Rochebrune.
 * 07/12/2024 - [Conférences de la Maison Française](https://www.uwfrenchhouse.org/event-details-registration/conferences-de-la-maison-francaise-paul-bastide-2023-12-07-16-00) - Madison French House. [[Slides]]({{site.baseurl}}/docs/20231207_French.html)
