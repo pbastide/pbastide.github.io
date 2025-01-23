@@ -4,7 +4,12 @@ title: Teaching
 weight: 4
 ---
 
-# 2022 - Present - EvoGEM
+# Since 2025 - Université Paris Cité
+
+* **Linear Regression**, *Master 1* *"Mathématiques et Applications - Ingénierie Mathématique et Biostatistique"* at [Université Paris Cité](https://math-info.u-paris.fr/master-mathematiques-et-applications/specialite-ingenierie-mathematique-et-biostatistique/).  
+Material available on the [course website](https://pbastide.github.io/MT6BM020/).
+
+# Since 2022 - EvoGEM
 
 * **Phylogenetic Comparative Methods** : intervention in the Master 2 [EvoGEM](https://evogem.fr/en/accueil-english/) (Evolution of Genomes, Populations and Species: Data and Models), 
 with [Julien Clavel](https://umr5023.univ-lyon1.fr/annuaire/details/1/295-clavel-julien) (3h)
@@ -20,7 +25,10 @@ in the course supervised by
 * **Linear Regression**, *Master 1* *"Statistique et Science des Données"* at [Université de Montpellier](https://maths-fds.edu.umontpellier.fr/ssd/).  
 Material available on
 [GitHub](https://github.com/pbastide/HAX814X)
-and on the [Course Site](https://hax814x.netlify.app/).
+and on the [course website](https://hax814x.netlify.app/).  
+With [Benjamin Charlier](https://imag.umontpellier.fr/~charlier/) (2021),
+[Nicolas Meyer](https://sites.google.com/view/nicolasmeyer/accueil) (2022-23) 
+and [Ibrahim Bouzalmat](https://orcid.org/0000-0003-4159-2471) (2024).
 
 * **Data visualization**, *Engineering school*, program *"Développement informatique et exploitation Opérationnelle"* at [Polytech Montpellier](https://www.polytech.umontpellier.fr/formation/cycle-ingenieur/devops/enseignements-do).  
 Material available on
