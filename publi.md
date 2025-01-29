@@ -21,6 +21,9 @@ weight: 3
 
 # Preprints
 
+* G. Le Mailloux, **P. Bastide**, J-M. Marin, A. Estoup (2025+), Goodness of Fit for Bayesian Generative Models with Applications in Population Genetics.
+*arXiv*, [doi:10.48550/arXiv.2501.17107](https://doi.org/10.48550/arXiv.2501.17107)
+
 * I. Ndikumana, G. Onaga, A. Pinel-Galzi, P. Rocu, J. Hubert, H. Karakacha Wéré, A. Adego, M. Nyongesa Wéré, N. Poulicard, M. Hebrard, S. Dellicour, P. Lemey, E. Gilbert, M-J. Dugué, F. Chevenet, **P. Bastide**, S. Guindon, D. Fargette, E. Hébrard (2024+), 
 Grains, trade and war in the multimodal transmission of Rice yellow mottle virus: an historical and phylogeographical retrospective
 *bioRxiv*,
