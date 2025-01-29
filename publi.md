@@ -19,6 +19,8 @@ weight: 3
 
 * `cauphy` (`R` package, joint author) [[CRAN](https://CRAN.R-project.org/package=cauphy)] [[GitHub](https://github.com/gilles-didier/cauphy/)]
 
+* `abcgof` (`R` package, joint author) [[GitHub](https://github.com/pbastide/abcgof/)]
+
 # Preprints
 
 * G. Le Mailloux, **P. Bastide**, J-M. Marin, A. Estoup (2025+), Goodness of Fit for Bayesian Generative Models with Applications in Population Genetics.
