@@ -23,89 +23,171 @@ weight: 3
 
 # Preprints
 
-* G. Le Mailloux, **P. Bastide**, J-M. Marin, A. Estoup (2025+), Goodness of Fit for Bayesian Generative Models with Applications in Population Genetics.
-*arXiv*, [doi:10.48550/arXiv.2501.17107](https://doi.org/10.48550/arXiv.2501.17107)
+* G. Le Mailloux, **P. Bastide**, J-M. Marin, A. Estoup (2025+),
+Goodness of Fit for Bayesian Generative Models with Applications in Population Genetics.
+*arXiv*.
+[doi:10.48550/arXiv.2501.17107](https://doi.org/10.48550/arXiv.2501.17107)
 
-* I. Ndikumana, G. Onaga, A. Pinel-Galzi, P. Rocu, J. Hubert, H. Karakacha Wéré, A. Adego, M. Nyongesa Wéré, N. Poulicard, M. Hebrard, S. Dellicour, P. Lemey, E. Gilbert, M-J. Dugué, F. Chevenet, **P. Bastide**, S. Guindon, D. Fargette, E. Hébrard (2024+), 
+* I. Ndikumana, G. Onaga, A. Pinel-Galzi, P. Rocu, J. Hubert, H. Karakacha Wéré,
+A. Adego, M. Nyongesa Wéré, N. Poulicard, M. Hebrard, S. Dellicour, P. Lemey,
+E. Gilbert, M-J. Dugué, F. Chevenet, **P. Bastide**, S. Guindon, D. Fargette, E. Hébrard (2024+), 
 Grains, trade and war in the multimodal transmission of Rice yellow mottle virus: an historical and phylogeographical retrospective
-*bioRxiv*,
+*bioRxiv*.
 [doi:10.1101/2024.08.20.608750](https://doi.org/10.1101/2024.08.20.608750)
 
-* B. Teo, **P. Bastide**, C. Ané (2024+), Leveraging graphical model techniques to study evolution on phylogenetic networks. *arXiv*, 
-[doi:10.48550/arXiv.2405.09327](https://doi.org/10.48550/arXiv.2405.09327)
+# 2025
+
+* B. Teo, **P. Bastide**, C. Ané (2025), Leveraging graphical model techniques to study evolution on phylogenetic networks.
+*Phil. Trans. R. Soc. B* 380:20230310.
+[doi:10.1098/rstb.2023.0310](https://doi.org/10.1098/rstb.2023.0310)
+[[arXiv](https://doi.org/10.48550/arXiv.2405.09327)]
+[[scripts and data](https://github.com/bstkj/graphicalmodels_for_phylogenetics_code)]
+[[julia package](https://github.com/JuliaPhylo/PhyloGaussianBeliefProp.jl)]
 
 # 2024
 
 * **P. Bastide**, P. Rocu, J. Wirtz, G.W. Hassler, F. Chevenet, D. Fargette, M.A. Suchard, S. Dellicour, P. Lemey, S. Guindon (2024), 
 Modeling the velocity of evolving lineages and predicting dispersal patterns
-*Proceedings of the National Academy of Sciences U.S.A.*, 121 (47) e2411582121,
+*Proceedings of the National Academy of Sciences U.S.A.*, 121 (47) e2411582121.
 [doi:10.1073/pnas.2411582121](https://doi.org/10.1073/pnas.2411582121)
 [[bioRxiv](https://doi.org/10.1101/2024.06.06.597755)]
-[[GitHub]](https://github.com/pbastide/integrated_phylogenetic_models)
+[[scripts and data](https://github.com/pbastide/integrated_phylogenetic_models)]
 
 * S. Dellicour, **P. Bastide**, P. Rocu, D. Fargette, O.J. Hardy, M.A. Suchard, S. Guindon, P. Lemey (2024),
-How fast are viruses spreading in the wild? *PLOS Biology*, 22(12) e3002914,
+How fast are viruses spreading in the wild? *PLOS Biology*, 22(12) e3002914.
 [doi:10.1371/journal.pbio.3002914](https://doi.org/10.1371/journal.pbio.3002914)
-[bioRxiv](https://doi.org/10.1101/2024.04.10.588821)
+[[bioRxiv](https://doi.org/10.1101/2024.04.10.588821)]
+[[scripts and data](https://github.com/sdellicour/dispersal_capacities)]
 
-* F. Chevenet, D. Fargette, **P. Bastide**, T. Vitré, S. Guindon, (2024), EvoLaps 2: Advanced phylogeographic visualization. *Virus Evolution*, 10(1), vead078.
+* F. Chevenet, D. Fargette, **P. Bastide**, T. Vitré, S. Guindon, (2024),
+EvoLaps 2: Advanced phylogeographic visualization.
+*Virus Evolution*, 10(1), vead078.
 [doi:10.1093/ve/vead078](https://doi.org/10.1093/ve/vead078)
 
 # 2023
 
-* **P. Bastide**, G. Didier (2023), The Cauchy Process on Phylogenies: a Tractable Model for Pulsed Evolution. *Systematic Biology*, 72(6), 1296–1315.
+* **P. Bastide**, G. Didier (2023), 
+The Cauchy Process on Phylogenies: a Tractable Model for Pulsed Evolution. 
+*Systematic Biology*, 72(6), 1296–1315.
 [doi:10.1093/sysbio/syad053](https://doi.org/10.1093/sysbio/syad053)
 [[bioRxiv](https://doi.org/10.1101/2023.04.05.535685)]
+[[scripts and data](https://github.com/pbastide/cauchy_paper)]
+[[R package](https://github.com/gilles-didier/cauphy/)]
 
-* R. Kriebel, J.P. Rose, **P. Bastide**, D. Jolles, M. Reginato, and K.J. Sytsma (2023), The evolution of Ericaceae flowers and their pollination syndromes at a global scale. *American Journal of Botany*, 110(9), e16220. [doi:10.1002/ajb2.16220](https://doi.org/10.1002/ajb2.16220)
+* R. Kriebel, J.P. Rose, **P. Bastide**, D. Jolles, M. Reginato, and K.J. Sytsma (2023), 
+The evolution of Ericaceae flowers and their pollination syndromes at a global scale. 
+*American Journal of Botany*, 110(9), e16220. 
+[doi:10.1002/ajb2.16220](https://doi.org/10.1002/ajb2.16220)
 
-* **P. Bastide**, C. Soneson, D.B. Stern, O. Lespinet, M. Gallopin (2023), A Phylogenetic Framework to Simulate Synthetic Inter-species RNA-Seq Data. *Molecular Biology and Evolution*, 40(1), msac269.
-[doi:10.1093/molbev/msac269](https://doi.org/10.1093/molbev/msac269) [[bioRxiv](https://doi.org/10.1101/2022.01.21.476612)]
-[[Brève Paris Saclay](https://sco.lt/7BhZmS) (in French)].
+* **P. Bastide**, C. Soneson, D.B. Stern, O. Lespinet, M. Gallopin (2023), 
+A Phylogenetic Framework to Simulate Synthetic Inter-species RNA-Seq Data. 
+*Molecular Biology and Evolution*, 40(1), msac269.
+[doi:10.1093/molbev/msac269](https://doi.org/10.1093/molbev/msac269) 
+[[bioRxiv](https://doi.org/10.1101/2022.01.21.476612)]
+[[scripts and data](https://github.com/i2bc/InterspeciesDE)]
+[[R package](https://github.com/csoneson/compcodeR)]
+[[Brève Paris Saclay](https://sco.lt/7BhZmS) (in French)]
 
-* B.S. Teo, J. Rose, **P. Bastide**, C. Ane (2023), Accounting for intraspecific variation in continuous trait evolution on a reticulate phylogeny. *Bulletin of the Society of Systematic Biologists*. [doi:10.18061/bssb.v2i3.8977](https://doi.org/10.18061/bssb.v2i3.8977). [[bioRxiv](https://doi.org/10.1101/2022.05.12.490814)]
+* B.S. Teo, J. Rose, **P. Bastide**, C. Ane (2023),
+Accounting for intraspecific variation in continuous trait evolution on a reticulate phylogeny.
+*Bulletin of the Society of Systematic Biologists*.
+[doi:10.18061/bssb.v2i3.8977](https://doi.org/10.18061/bssb.v2i3.8977)
+[[bioRxiv](https://doi.org/10.1101/2022.05.12.490814)]
+[[scripts and data](https://doi.org/10.5061/dryad.9ghx3ffkc)]
 
 # 2021
 
-* S. Issaka, O. Traoré, R.D.S. Longué, A. Pinel-Galzi, M.S. Gill, S. Dellicour, **P. Bastide**, S. Guindon, E. Hébrard, M-J. Dugué, s. Yacouba, S. Semballa, S. Aké, P. Lemey, D. Fargette (2021),  Rivers and Landscape Ecology of a Plant Virus, *Rice Yellow Mottle Virus* Along the Niger Valley. *Virus Evolution*, 7(2), veab072,  [doi:10.1093/ve/veab072](https://doi.org/10.1093/ve/veab072).
+* S. Issaka, O. Traoré, R.D.S. Longué, A. Pinel-Galzi, M.S. Gill, S. Dellicour, **P. Bastide**,
+S. Guindon, E. Hébrard, M-J. Dugué, s. Yacouba, S. Semballa, S. Aké, P. Lemey, D. Fargette (2021),  
+Rivers and Landscape Ecology of a Plant Virus, *Rice Yellow Mottle Virus* Along the Niger Valley.
+*Virus Evolution*, 7(2), veab072.
+[doi:10.1093/ve/veab072](https://doi.org/10.1093/ve/veab072)
 
-* **P. Bastide**, L.S.T. Ho, G. Baele, P. Lemey, M.A. Suchard (2021), Efficient Bayesian Inference of General Gaussian Models on Large Phylogenetic Trees. *Annals of Applied Statistics*, 15(2): 971-997. [doi:10.1214/20-AOAS1419](http://dx.doi.org/10.1214/20-AOAS1419) [[arXiv:2003.10336](http://arxiv.org/abs/2003.10336)]
+* **P. Bastide**, L.S.T. Ho, G. Baele, P. Lemey, M.A. Suchard (2021),
+Efficient Bayesian Inference of General Gaussian Models on Large Phylogenetic Trees.
+*Annals of Applied Statistics*, 15(2): 971-997.
+[doi:10.1214/20-AOAS1419](http://dx.doi.org/10.1214/20-AOAS1419)
+[[arXiv:2003.10336](http://arxiv.org/abs/2003.10336)]
+[[scripts and data](https://github.com/pbastide/HMC_OU)]
 
-* Z. Zhang, A. Nishimura, **P. Bastide**, X. Ji, R.P. Payne, P. Goulder, P. Lemey, M.A. Suchard (2021), Large-scale inference of correlation among mixed-type biological traits with phylogenetic multivariate probit models. *Annals of Applied Statistics*, 15(1), 230-251.
-[doi:10.1214/20-AOAS1394](https://projecteuclid.org/journals/annals-of-applied-statistics/volume-15/issue-1/Large-scale-inference-of-correlation-among-mixed-type-biological-traits/10.1214/20-AOAS1394.short) [[arxiv:1912.09185](http://arxiv.org/abs/1912.09185)].
+* Z. Zhang, A. Nishimura, **P. Bastide**, X. Ji, R.P. Payne, P. Goulder, P. Lemey, M.A. Suchard (2021),
+Large-scale inference of correlation among mixed-type biological traits with phylogenetic multivariate probit models.
+*Annals of Applied Statistics*, 15(1), 230-251.
+[doi:10.1214/20-AOAS1394](https://doi.org/10.1214/20-AOAS1394)
+[[arxiv:1912.09185](http://arxiv.org/abs/1912.09185)].
 
-* G. Baele, M.S. Gill, **P. Bastide**, P. Lemey, M.A. Suchard (2021), Markov-modulated continuous-time Markov chains to identify site- and branch-specific evolutionary variation in BEAST. *Systematic Biology*, 70(1), 181-189. [doi:10.1093/sysbio/syaa037](https://doi.org/10.1093/sysbio/syaa037)
+* G. Baele, M.S. Gill, **P. Bastide**, P. Lemey, M.A. Suchard (2021),
+Markov-modulated continuous-time Markov chains to identify site- and branch-specific evolutionary variation in BEAST.
+*Systematic Biology*, 70(1), 181-189.
+[doi:10.1093/sysbio/syaa037](https://doi.org/10.1093/sysbio/syaa037)
 
 # 2020
 
-* S. Dellicour, S. Lequime, B. Vrancken, M.S. Gill, **P. Bastide**, K. Gangavarapu, N.L. Matteson, Y. Tan, L. du Plessis, A.A. Fisher, M.I. Nelson, M. Gilbert, M.A. Suchard, K.G. Andersen, N.D. Grubaugh, O.G. Pybus, P. Lemey (2020), Epidemiological hypothesis testing using a phylogeographic and phylodynamic framework. *Nature Communications*, 11, 5620. [doi:10.1038/s41467-020-19122-z](https://doi.org/10.1038/s41467-020-19122-z)
+* S. Dellicour, S. Lequime, B. Vrancken, M.S. Gill, **P. Bastide**, K. Gangavarapu,
+N.L. Matteson, Y. Tan, L. du Plessis, A.A. Fisher, M.I. Nelson, M. Gilbert, M.A. Suchard,
+K.G. Andersen, N.D. Grubaugh, O.G. Pybus, P. Lemey (2020),
+Epidemiological hypothesis testing using a phylogeographic and phylodynamic framework.
+*Nature Communications*, 11, 5620.
+[doi:10.1038/s41467-020-19122-z](https://doi.org/10.1038/s41467-020-19122-z)
+[[scripts and data](https://github.com/sdellicour/wnv_north_america)]
 
-* S. Lequime, **P. Bastide**, S. Dellicour, P. Lemey, G. Baele (2020), nosoi: a stochastic agent-based transmission chain simulation framework in R. *Methods in Ecology and Evolution*, 11, 1002-1007. [doi:10.1111/2041-210X.13422]( https://doi.org/10.1111/2041-210X.13422) [[bioRxiv](https://doi.org/10.1101/2020.03.03.973107)]
+* S. Lequime, **P. Bastide**, S. Dellicour, P. Lemey, G. Baele (2020),
+nosoi: a stochastic agent-based transmission chain simulation framework in R.
+*Methods in Ecology and Evolution*, 11, 1002-1007.
+[doi:10.1111/2041-210X.13422](https://doi.org/10.1111/2041-210X.13422)
+[[bioRxiv](https://doi.org/10.1101/2020.03.03.973107)]
 
 # 2018
 
-* L. Aristide , **P. Bastide** , S. F. dos Reis, T. M. Pires dos Santos, R. T. Lopes, S. I. Perez (2018), Multiple factors behind early diversification of skull morphology in the continental radiation of New World monkeys. *Evolution*, 72(12), 2697–2711. [doi:10.1111/evo.13609](https://onlinelibrary.wiley.com/doi/abs/10.1111/evo.13609)
+* L. Aristide , **P. Bastide** , S. F. dos Reis, T. M. Pires dos Santos, R. T. Lopes, S. I. Perez (2018),
+Multiple factors behind early diversification of skull morphology in the continental radiation of New World monkeys.
+*Evolution*, 72(12), 2697–2711.
+[doi:10.1111/evo.13609](https://onlinelibrary.wiley.com/doi/abs/10.1111/evo.13609)
 
-* **P. Bastide**, C. Solís-Lemus, R. Kriebel, K.W. Sparks, C. Ané (2018): Phylogenetic Comparative Methods for Phylogenetic Networks with Reticulations. *Systematic Biology*, 67(5), 800–820. [doi:10.1093/sysbio/syy033](https://academic.oup.com/sysbio/advance-article/doi/10.1093/sysbio/syy033/4985806?guestAccessKey=507189f8-9ff2-4e12-b17e-29c2a1b2e7ec) [[bioRxiv](https://doi.org/10.1101/194050)]    
-A [small summary](https://sco.lt/8P2PdB) was published by the Paris Saclay [Life Sciences](https://www.universite-paris-saclay.fr/en/research/department/life-sciences) department (with a picture featuring colorful smileys, in French).
+* **P. Bastide**, C. Solís-Lemus, R. Kriebel, K.W. Sparks, C. Ané (2018),
+Phylogenetic Comparative Methods for Phylogenetic Networks with Reticulations.
+*Systematic Biology*, 67(5), 800–820.
+[doi:10.1093/sysbio/syy033](https://academic.oup.com/sysbio/advance-article/doi/10.1093/sysbio/syy033/4985806?guestAccessKey=507189f8-9ff2-4e12-b17e-29c2a1b2e7ec)
+[[bioRxiv](https://doi.org/10.1101/194050)]    
+[[Brève Paris Saclay](https://sco.lt/8P2PdB) (in French)]
 
-* **P. Bastide**, C. Ané, S. Robin, M. Mariadassou (2018): Inference of Adaptive Shifts for Multivariate Correlated Traits. *Systematic Biology*, 67(4), 662–680. [doi:10.1093/sysbio/syy005](https://academic.oup.com/sysbio/advance-article/doi/10.1093/sysbio/syy005/4827615?guestAccessKey=fba26a20-0579-4721-ad76-8e669489539a) [[bioRxiv](http://www.biorxiv.org/content/early/2017/06/05/146191)]
+* **P. Bastide**, C. Ané, S. Robin, M. Mariadassou (2018),
+Inference of Adaptive Shifts for Multivariate Correlated Traits.
+*Systematic Biology*, 67(4), 662–680.
+[doi:10.1093/sysbio/syy005](https://academic.oup.com/sysbio/advance-article/doi/10.1093/sysbio/syy005/4827615?guestAccessKey=fba26a20-0579-4721-ad76-8e669489539a)
+[[bioRxiv](http://www.biorxiv.org/content/early/2017/06/05/146191)]
 
 # 2017
 
-* C. Solís-Lemus, **P. Bastide**, C. Ané (2017). PhyloNetworks: a package for phylogenetic networks. *Molecular Biology and Evolution*, 34(12), 3292–3298. [doi:10.1093/molbev/msx235](https://academic.oup.com/mbe/article/doi/10.1093/molbev/msx235/4103410/PhyloNetworks-a-package-for-phylogenetic-networks?guestAccessKey=230afceb-df28-4160-832d-aa7c73f86369)  [[GitHub](https://github.com/crsl4/PhyloNetworks.jl)]
+* C. Solís-Lemus, **P. Bastide**, C. Ané (2017),
+PhyloNetworks: a package for phylogenetic networks.
+*Molecular Biology and Evolution*, 34(12), 3292–3298.
+[doi:10.1093/molbev/msx235](https://academic.oup.com/mbe/article/doi/10.1093/molbev/msx235/4103410/PhyloNetworks-a-package-for-phylogenetic-networks?guestAccessKey=230afceb-df28-4160-832d-aa7c73f86369)
+[[Julia package](https://github.com/crsl4/PhyloNetworks.jl)]
 
-* **P. Bastide**, M. Mariadassou, S. Robin (2017). Detection of adaptive shifts on phylogenies by using shifted stochastic processes on a tree. *Journal of the Royal Statistical Society: Series B (Statistical Methodology)*, 79(4), 1067–1093. [doi:10.1111/rssb.12206](https://doi.org/10.1111/rssb.12206) [[arXiv](http://arxiv.org/abs/1508.00225), [bioRxiv](http://www.biorxiv.org/content/early/2016/07/13/023804)]
+* **P. Bastide**, M. Mariadassou, S. Robin (2017),
+Detection of adaptive shifts on phylogenies by using shifted stochastic processes on a tree.
+*Journal of the Royal Statistical Society: Series B (Statistical Methodology)*, 79(4), 1067–1093.
+[doi:10.1111/rssb.12206](https://doi.org/10.1111/rssb.12206)
+[[arXiv](http://arxiv.org/abs/1508.00225)]
+[[bioRxiv](http://www.biorxiv.org/content/early/2016/07/13/023804)]
 
 
 # Book Chapter
 
-* **P. Bastide**, M. Mariadassou, S. Robin (2022). *Modèles d’évolution de caractères continus.* In: Didier G., Guindon S., editeurs. Modèles et méthodes pour l'évolution biologique. ISTE Editions. [doi:10.51926/iste.9069.ch3](https://dx.doi.org/10.51926/iste.9069.ch3)  [[hal-03762880](https://hal.archives-ouvertes.fr/hal-03762880)].
+* **P. Bastide**, M. Mariadassou, S. Robin (2022).
+*Modèles d’évolution de caractères continus.*
+In: Didier G., Guindon S., editeurs. Modèles et méthodes pour l'évolution biologique.
+ISTE Editions.
+[doi:10.51926/iste.9069.ch3](https://dx.doi.org/10.51926/iste.9069.ch3)
+[[hal-03762880](https://hal.archives-ouvertes.fr/hal-03762880)]
 
 
 # PhD Thesis
 
-* *Shifted stochastic processes evolving on trees: application to models of adaptive evolution on phylogenies.* [[Manuscript](https://tel.archives-ouvertes.fr/tel-01629648)], [[Slides]({{site.baseurl}}/docs/20171019_soutenance.pdf)]
+* *Shifted stochastic processes evolving on trees: application to models of adaptive evolution on phylogenies.*
+[[Manuscript](https://tel.archives-ouvertes.fr/tel-01629648)]
+[[Slides]({{site.baseurl}}/docs/20171019_soutenance.pdf)]
 
 # Contributed Talks and Posters
 
