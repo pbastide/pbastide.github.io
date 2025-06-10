@@ -191,6 +191,7 @@ ISTE Editions.
 
 # Contributed Talks and Posters
 
+* 03/06/2025 - [JdS 2025](https://jds2025.sciencesconf.org/), Marseille, France. [[Abstract]](https://jds2025.sciencesconf.org/data/pages/resume_site_V6.pdf#section*.271).
 * 29/08/2024 - [Journées MAS 2024](https://mas2024.sciencesconf.org/), Poitier, France. Contribution invitée à la session [*Systèmes de particules*](https://mas2024.sciencesconf.org/data/pages/Session9.pdf), organisée par [Loren Coquille](https://www-fourier.ujf-grenoble.fr/~coquilll/).
 * 13/06/2023 - [MCEB 2023](https://mceb2023.sciencesconf.org/), Cargèse, Corsica.
 * 29/06/2022 - [MCEB 2022](https://mceb2022.sciencesconf.org/), Château d'Oex, Switzerland.
