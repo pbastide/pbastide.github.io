@@ -28,14 +28,17 @@ Goodness of Fit for Bayesian Generative Models with Applications in Population G
 *arXiv*.
 [doi:10.48550/arXiv.2501.17107](https://doi.org/10.48550/arXiv.2501.17107)
 
+# 2025
+
 * I. Ndikumana, G. Onaga, A. Pinel-Galzi, P. Rocu, J. Hubert, H. Karakacha Wéré,
 A. Adego, M. Nyongesa Wéré, N. Poulicard, M. Hebrard, S. Dellicour, P. Lemey,
-E. Gilbert, M-J. Dugué, F. Chevenet, **P. Bastide**, S. Guindon, D. Fargette, E. Hébrard (2024+), 
-Grains, trade and war in the multimodal transmission of Rice yellow mottle virus: an historical and phylogeographical retrospective
-*bioRxiv*.
-[doi:10.1101/2024.08.20.608750](https://doi.org/10.1101/2024.08.20.608750)
-
-# 2025
+E. Gilbert, M-J. Dugué, F. Chevenet, **P. Bastide**, S. Guindon, D. Fargette, E. Hébrard (2025), 
+Grains, trade and war in the multimodal transmission of Rice yellow mottle virus: An historical and phylogeographical retrospective.
+*PLOS Pathogens* 21(6): e1013168.
+[doi:10.1371/journal.ppat.1013168](https://doi.org/10.1371/journal.ppat.1013168)
+[[bioRxiv](https://doi.org/10.1101/2024.08.20.608750)]
+[[Press release](https://www.eurekalert.org/news-releases/1087128)]
+[[Article in *The Conversation* (French)](https://theconversation.com/comment-ce-virus-du-riz-a-conquis-toute-lafrique-259329)]
 
 * B. Teo, **P. Bastide**, C. Ané (2025), Leveraging graphical model techniques to study evolution on phylogenetic networks.
 *Phil. Trans. R. Soc. B* 380:20230310.
