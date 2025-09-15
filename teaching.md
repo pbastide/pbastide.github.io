@@ -6,8 +6,10 @@ weight: 4
 
 # Since 2025 - Université Paris Cité
 
-* **Linear Regression**, *Master 1* *"Mathématiques et Applications - Ingénierie Mathématique et Biostatistique"* at [Université Paris Cité](https://math-info.u-paris.fr/master-mathematiques-et-applications/specialite-ingenierie-mathematique-et-biostatistique/).  
-Material available on the [course website](https://pbastide.github.io/MT6BM020/).
+* **Linear Regression**, 
+*Master 1* *"Mathématiques et Applications - Ingénierie Mathématique et Biostatistique"* 
+at [Université Paris Cité](https://math-info.u-paris.fr/master-mathematiques-et-applications/specialite-ingenierie-mathematique-et-biostatistique/).  
+Material available on the [course website](https://pbastide.github.io/MV4AE035/).
 
 # Since 2022 - EvoGEM
 
