@@ -14,7 +14,7 @@ Material available on the [course website](https://pbastide.github.io/MV4AE035/)
 * **An introduction to viral phylogeography**,
 *Master 2* *"Mathématiques et Applications"* 
 at [Université Paris Cité](https://math-info.u-paris.fr/master-mathematiques-et-applications/specialite-ingenierie-mathematique-et-biostatistique/),
-intervention (2h30) in the module *"Open your mind via interdisciplinary topics"* 
+intervention (2h30) in the module *"Open your mind via interdisciplinary topics"*
 in the [DigiHealth](https://u-paris.fr/sante/digihealth/) program.
   * [Slides]({{site.baseurl}}/docs/20251017_M2_phylodynamique.html)
   * [Practical]({{site.baseurl}}/docs/20251017_M2_phylodyn_practical.html)
