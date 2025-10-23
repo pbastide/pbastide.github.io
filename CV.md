@@ -8,6 +8,11 @@ weight: 5
 
 * **2024 - present**: CNRS researcher (CRCN) at [MAP5](https://map5.mi.parisdescartes.fr/) (Université Paris Cité).
 
+# Responsibilities
+
+* **Associate Editor** for [Systematic Biology](https://academic.oup.com/sysbio)
+* **Co-organisor** of the MAP5 [colloquium](https://map5.mi.parisdescartes.fr/evenements/colloquium-du-map5/)
+
 # Education and Previous Positions
 
 * **2019 - 2024**: CNRS researcher (CRCN) at [IMAG](https://imag.umontpellier.fr) (Université de Montpellier).
@@ -25,7 +30,7 @@ and [Mahendra Mariadasou](https://mahendra-mariadassou.github.io/) ([MaIAGE](htt
 
 * **2010 - 2014**: Student at the École Polytechnique.
 
-# Awards and Fellowhips
+# Awards and Fellowships
 
 * **2019**: [FWO long stay abroad grant](https://www.fwo.be/en/support-programmes/all-calls/mobility/grant-for-a-long-stay-abroad/) to visit [Marc Suchard](https://suchard-group.github.io/) at [UCLA](http://www.ucla.edu/) in the fall.
 
@@ -38,4 +43,4 @@ and [Mahendra Mariadasou](https://mahendra-mariadassou.github.io/) ([MaIAGE](htt
 
 # Full CV
 
-* In [English]({{site.baseurl}}/docs/202208CVen.pdf) or [French]({{site.baseurl}}/docs/202208CVfr.pdf) (last update: August 2022).
+* In [English]({{site.baseurl}}/docs/202510CVen.pdf) or [French]({{site.baseurl}}/docs/202510CVfr.pdf) (last update: October 2025).

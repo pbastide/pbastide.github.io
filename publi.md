@@ -23,6 +23,11 @@ weight: 3
 
 # Preprints
 
+* **P. Bastide**, A. Estoup, J-M. Marin, J. Stoehr (2025+),
+Estimating Marginal Likelihoods in Likelihood-Free Inference via Neural Density Estimation
+*arXiv*.
+[doi:10.48550/arXiv.2507.08734](https://doi.org/10.48550/arXiv.2507.08734)
+
 * G. Le Mailloux, **P. Bastide**, J-M. Marin, A. Estoup (2025+),
 Goodness of Fit for Bayesian Generative Models with Applications in Population Genetics.
 *arXiv*.

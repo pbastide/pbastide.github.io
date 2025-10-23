@@ -4,6 +4,29 @@ title: Teaching
 weight: 4
 ---
 
+# Supervision
+
+* **2025 - present**: **Nicolas Noirault** (PhD Student),
+with 
+[Gilles Didier](https://imag.umontpellier.fr/?page_id=524&id=56),
+[Alice Cleynen](https://alice.cleynen.fr/) and
+[Sophie Lèbre](https://www.univ-montp3.fr/miap/~lebre/).  
+Founding from [ANR IdenTHiC](https://anr.fr/Projet-ANR-23-CE45-0030).  
+
+* **2022 - present**: [**Guillaume Le Mailloux**](https://umr-cbgp.fr/membre/le-mailloux/) (PhD Student),
+with 
+[Jean-Michel Marin](https://imag.umontpellier.fr/~marin/) and 
+[Arnaud Estoup](https://umr-cbgp.fr/membre/estoup/).
+
+* **2025**: [**Emre Anakok**](https://anakokemre.github.io/Website/) (Post-Doc),
+with 
+[Arnaud Estoup](https://umr-cbgp.fr/membre/estoup/),
+[Mathieu Gautier](https://umr-cbgp.fr/membre/gautier/) and
+[Cécile Ané](https://pages.stat.wisc.edu/~ane/).  
+Founding from [PEPR AgroStat](https://www.maths-vives.fr/projet/agrostat/).  
+*Now Assistant Professor at [MAP5](https://map5.mi.parisdescartes.fr/)*.
+
+
 # Since 2025 - Université Paris Cité
 
 * **Linear Regression**, 
