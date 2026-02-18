@@ -217,6 +217,8 @@ ISTE Editions.
 
 # Seminars and Workshops
 
+* 18/02/2026 - [Séminaire du CBIO](https://www.minesparis.psl.eu/cbio/) - Mines Paris.
+* 24/11/2024 - [GDR Phylodynamique](https://phylo2025.sciencesconf.org/) - Paris.
 * 20/03/2025 - [Séminaire de modélisation mathématique en sciences de la vie et santé](https://sites.google.com/view/seminaire-modelisation/) - Villetaneuse.
 * 29/01/2025 - [Rencontres de la chaire Modélisation Mathématique et Biodiversité (MMB)](http://www.cmap.polytechnique.fr/chaire-mmb/meeting29012025.html) - Paris.
 * 24/01/2025 - [All About that... Semniar Series](https://sites.google.com/view/all-about-that-bayes/#h.okg5lblk6lnm) - Paris.
