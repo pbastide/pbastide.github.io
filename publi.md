@@ -7,24 +7,31 @@ weight: 3
 
 # Software
 
+* `JuliaPhylo` (`Julia` software ecosystem, contributor) [[GitHub](https://github.com/JuliaPhylo)]
+
+* `PhyloTraits` (`Julia` package, joint author) [[GitHub](https://github.com/JuliaPhylo/PhyloTraits.jl)]
+
 * `PhylogeneticEM` (`R` package, main author) [[CRAN](https://CRAN.R-project.org/package=PhylogeneticEM)] [[GitHub](https://github.com/pbastide/PhylogeneticEM)]
 
-* `PhyloNetworks` (`Julia` package, contributor) [[GitHub](https://github.com/crsl4/PhyloNetworks.jl)]
+* `cauphy` (`R` package, joint author) [[CRAN](https://CRAN.R-project.org/package=cauphy)] [[GitHub](https://github.com/gilles-didier/cauphy/)]
 
-* `BEAST` (written in `java`, contributor) [[GitHub](https://github.com/beast-dev/beast-mcmc)]
+* `BEAST X` (`java` program, contributor) [[GitHub](https://github.com/beast-dev/beast-mcmc)]
 
 * `nosoi` (`R` package, contributor) [[CRAN](https://CRAN.R-project.org/package=nosoi)] [[GitHub](https://github.com/slequime/nosoi)]
 
 * `compcodeR` (`R` package, contributor) [[Bioconductor](https://www.doi.org/10.18129/B9.bioc.compcodeR)] [[GitHub](https://github.com/csoneson/compcodeR)]
 
-* `cauphy` (`R` package, joint author) [[CRAN](https://CRAN.R-project.org/package=cauphy)] [[GitHub](https://github.com/gilles-didier/cauphy/)]
-
 * `abcgof` (`R` package, joint author) [[GitHub](https://github.com/pbastide/abcgof/)]
 
 # Preprints
 
+* C. Ané, **P. Bastide** (2026+),
+Trait evolution with incomplete lineage sorting and gene flow: the Gaussian Coalescent model.
+*bioRxiv*.
+[doi:10.64898/2026.03.10.710880 ](https://doi.org/10.64898/2026.03.10.710880)
+
 * **P. Bastide**, A. Estoup, J-M. Marin, J. Stoehr (2025+),
-Estimating Marginal Likelihoods in Likelihood-Free Inference via Neural Density Estimation
+Estimating Marginal Likelihoods in Likelihood-Free Inference via Neural Density Estimation.
 *arXiv*.
 [doi:10.48550/arXiv.2507.08734](https://doi.org/10.48550/arXiv.2507.08734)
 
