@@ -224,6 +224,9 @@ ISTE Editions.
 
 # Seminars and Workshops
 
+* 11/06/2026 - [LAMA seminar](https://lama-umr8050.fr/evenements/seminaire_de_probabilites_et_statistiques/jump_and_integrated_processes_for_viral) - Université Gustave Eiffel, Champs-sur-Marne.
+* 22/05/2026 - [Evolution à Paris](https://evolution.cnrs.fr/idf/) - Museum, Paris.
+* 22/03/2026 - [SMILE Seminar](https://www.smile.cnrs.fr/index.php) - CIRB, Paris.
 * 18/02/2026 - [Séminaire du CBIO](https://www.minesparis.psl.eu/cbio/) - Mines Paris.
 * 24/11/2025 - [GDR Phylodynamique](https://phylo2025.sciencesconf.org/) - Paris.
 * 20/03/2025 - [Séminaire de modélisation mathématique en sciences de la vie et santé](https://sites.google.com/view/seminaire-modelisation/) - Villetaneuse.
