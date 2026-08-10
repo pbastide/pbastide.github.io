@@ -34,6 +34,11 @@ Founding from [PEPR AgroStat](https://www.maths-vives.fr/projet/agrostat/).
 at [Université Paris Cité](https://math-info.u-paris.fr/master-mathematiques-et-applications/specialite-ingenierie-mathematique-et-biostatistique/).  
 Material available on the [course website](https://pbastide.github.io/MV4AE035/).
 
+* **Machine Learning I**, 
+*Master 1* *"Mathématiques et Applications"* 
+at [Université Paris Cité](https://math-info.u-paris.fr/master-mathematiques-et-applications/),
+with [**Anne Sabourin**](https://helios2.mi.parisdescartes.fr/~asabouri/).
+
 * **An introduction to viral phylogeography**,
 *Master 2* *"Mathématiques et Applications"* 
 at [Université Paris Cité](https://math-info.u-paris.fr/master-mathematiques-et-applications/specialite-ingenierie-mathematique-et-biostatistique/),
