@@ -34,14 +34,6 @@ Interspecies Differential Gene Expression Analysis with Regularized Phylogenetic
 [[scripts and data](https://github.com/i2bc/phyloDE_paper2026)]
 [[R package phyloDE](https://github.com/pbastide/phyloDE)]
 
-* C. Ané, **P. Bastide** (2026+),
-Trait evolution with incomplete lineage sorting and gene flow: the Gaussian Coalescent model.
-*bioRxiv*.
-[doi:10.64898/2026.03.10.710880 ](https://doi.org/10.64898/2026.03.10.710880)
-[[scripts and data](github.com/cecileane/GCmodel-2026-data-code)]
-[[julia package PhyloTraits v1.2.0](https://github.com/JuliaPhylo/PhyloTraits.jl)]
-[[R package phylolm v2.7.0](https://github.com/lamho86/phylolm)]
-
 * **P. Bastide**, A. Estoup, J-M. Marin, J. Stoehr (2025+),
 Estimating Marginal Likelihoods in Likelihood-Free Inference via Neural Density Estimation.
 *arXiv*.
@@ -53,6 +45,17 @@ Goodness of Fit for Bayesian Generative Models with Applications in Population G
 [doi:10.48550/arXiv.2501.17107](https://doi.org/10.48550/arXiv.2501.17107)
 [[scripts and data](https://github.com/pbastide/gof_sbi_paper)]
 [[R package abcgof](https://github.com/pbastide/abcgof/)]
+
+# 2026
+
+* C. Ané, **P. Bastide** (2026),
+Trait evolution with incomplete lineage sorting and gene flow: the Gaussian Coalescent model.
+*Peer Community Journal*, 6:e96.
+[10.24072/pcjournal.789](https://doi.org/10.24072/pcjournal.789)
+[[scripts and data](github.com/cecileane/GCmodel-2026-data-code)]
+[[julia package PhyloTraits v1.2.0](https://github.com/JuliaPhylo/PhyloTraits.jl)]
+[[R package phylolm v2.7.0](https://github.com/lamho86/phylolm)].
+PCI Recommendation by Alan Rogers [doi:10.24072/pci.mcb.100819](https://doi.org/10.24072/pci.mcb.100819)
 
 # 2025
 
