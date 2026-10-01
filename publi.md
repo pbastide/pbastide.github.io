@@ -34,6 +34,13 @@ Interspecies Differential Gene Expression Analysis with Regularized Phylogenetic
 [[scripts and data](https://github.com/i2bc/phyloDE_paper2026)]
 [[R package phyloDE](https://github.com/pbastide/phyloDE)]
 
+* P. Lemey, X. Ji, B. Vrancken, M. Bletsa, P. Datta, L.E. Kafetzopoulou, J. Mifsud,
+G. Baele, M.R. Pourkarim, L. Patrono, S. Calvignac-Spencer, L. Orlando, **P. Bastide**, 
+S. Guindon, D. Martin, M.A. Suchard, (2026+),
+Reconciling fast Hepatitis B evolutionary rates with ancient co-divergence.
+*bioRxiv*.
+[doi:10.64898/2026.06.05.730483](https://doi.org/10.64898/2026.06.05.730483)
+
 * **P. Bastide**, A. Estoup, J-M. Marin, J. Stoehr (2025+),
 Estimating Marginal Likelihoods in Likelihood-Free Inference via Neural Density Estimation.
 *arXiv*.
